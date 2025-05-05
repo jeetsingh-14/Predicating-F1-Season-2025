@@ -11,7 +11,7 @@ It is an open learning tool for anyone to explore, improve, and play with.
 
 -  **Machine Learning Model**  
   Uses stacked ensemble of XGBoost, LightGBM, and CatBoost models to predict podium probabilities.
-  
+
 -  **News Sentiment Analysis**  
   Incorporates sentiment from F1 news articles to adjust predictions dynamically.
 
@@ -45,11 +45,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
-```
-
-4. Run the full pipeline:
-```bash
-python src/master_pipeline.py --update-schedule --include-news --include-betting --create-visualizations
 ```
 
 ## Usage
@@ -93,16 +88,98 @@ python src/model.py
 python src/visualization.py
 ```
 
+## Streamlit Dashboard
+
+A comprehensive Streamlit dashboard for the F1 Race Outcome Predictor 2025 project, designed to deliver real-time and historical insights into Formula 1 race predictions using machine learning and deep learning models.
+
+### Running the Dashboard
+
+To run the Streamlit dashboard:
+
+```bash
+streamlit run app.py
+```
+
+This will start the dashboard on your local machine, typically at http://localhost:8501.
+
+### Dashboard Features
+
+#### Core Functionalities
+- **Dynamic Race Data Loading**
+  - Select any upcoming race from the dropdown
+  - Upload custom race data in CSV format
+  - Automatic validation and synthetic data generation for missing features
+
+- **Model Selection & Explanation**
+  - Choose between multiple models (Stacking Ensemble, Random Forest, XGBoost, Logistic Regression, Deep Neural Net)
+  - SHAP-based feature importance visualization
+  - Detailed model explanation
+
+- **Real-Time Podium Prediction**
+  - Display top-3 predicted podium finishers with driver photos and team logos
+  - Probability visualization with confidence indicators
+  - Toggle between classification and probabilistic views
+
+#### Data Visualizations & Analytics
+- **Driver & Constructor Performance Comparison**
+  - Average qualifying position trends
+  - Driver vs Constructor influence analysis
+  - ELO rating progression over time
+  - Radar charts for driver skill breakdown
+
+- **Track Insights Panel**
+  - Track details and interactive maps
+  - Weather forecast
+  - Overtaking difficulty and safety car probability
+  - Historical team performance at each track
+
+- **Model Metrics Panel**
+  - Accuracy, Precision, Recall, Log Loss, F1 Score
+  - Confusion Matrix for Podium vs Non-Podium
+  - ROC Curve and PR Curve
+  - Feature importance visualization
+
+#### Scenario Simulation Engine
+- **What-If Engine**
+  - Manipulate input features for selected drivers
+  - Real-time probability updates
+  - Visual feedback on prediction changes
+  - AI-powered race preview based on parameters
+
+- **Race Outcome Simulator**
+  - Monte Carlo simulation based on feature variances
+  - Distribution of outcomes per driver
+  - Team performance probability estimates
+
+#### Persistence & Export
+- **Prediction History**
+  - Save predictions to database
+  - Filter by race, driver, date
+  - Visualize prediction patterns
+  - Export to CSV with one click
+
 ## Project Structure
 
 ```
 f1-predictor-2025/
+├── app.py                  # Main dashboard entry point
+├── pages/                  # Dashboard pages
+│   ├── driver_analysis.py  # Driver & constructor analysis
+│   ├── track_insights.py   # Track information and insights
+│   ├── model_metrics.py    # Model performance metrics
+│   ├── scenario_simulator.py # What-if engine and race simulator
+│   └── prediction_history.py # Prediction history and analytics
+├── utils/                  # Utility functions
+│   ├── data_loader.py      # Data loading functions
+│   └── ui_helper.py        # UI component functions
 ├── data/
-│   ├── raw/              # Raw data files
-│   └── processed/        # Processed data files
-├── logs/                 # Pipeline logs
+│   ├── raw/                # Raw data files
+│   ├── processed/          # Processed data files
+│   └── db/                 # Database files
+├── logs/                   # Pipeline logs
+├── models/                 # Model files
 ├── results/
-│   └── visualizations/   # Generated visualizations
+│   └── visualizations/     # Generated visualizations
 ├── src/
 │   ├── master_pipeline.py        # Main pipeline script
 │   ├── schedule_parser.py        # Race schedule parser
@@ -111,9 +188,10 @@ f1-predictor-2025/
 │   ├── feature_engineering.py    # Feature engineering
 │   ├── model.py                  # Model training and prediction
 │   └── visualization.py          # Visualization generator
-├── notebooks/            # Jupyter notebooks for exploration (kept for future use) 
-├── requirements.txt      # Project dependencies
-└── README.md            # Project documentation
+└── dashboad_content/       # Dashboard assets
+    ├── F1 2025 Season Cars/    # Car images
+    ├── F1 2025 Season Drivers/ # Driver images
+    └── F1 Race Tracks/         # Track images
 ```
 
 ## Model Details
@@ -141,20 +219,21 @@ The prediction model uses a stacked ensemble approach:
    - Complex feature engineering (driver consistency, team synergy, circuit difficulty)
    - Dynamic schedule updates and real-time predictions
    - Integrating multiple models cleanly into one pipeline
-  
+
 5. **Solutions**:
    - Robust error handling
    - Modular design
    - Manual data entry fallback
    - And of course, support from our friendly neighbourhood ChatGPT!
 
-## Visualization Dashboard
+## Technical Details
 
-The visualization dashboard includes:
-
-1. Podium Probabilities: Bar charts for each driver.
-2. Odds Comparison: Model prediction vs bookmaker odds.
-3. Race Calendar Overview: Predicted podium finishers per race.
+- **Caching**: Efficient data loading with `st.cache_data` and `st.cache_resource`
+- **Database**: SQLite for prediction history storage
+- **Visualization**: Interactive charts with Plotly and Altair
+- **Maps**: Interactive track maps with Folium and PyDeck
+- **UI**: Clean, responsive design with dark/light mode toggle
+- **Models**: Integration with scikit-learn, XGBoost, and other ML libraries
 
 ## Contributing
 
@@ -176,5 +255,3 @@ No warranty is provided. Predictions are for fun and educational purposes only!
 - 📊 Kaggle datasets for historical performance data
 - 🧩 The open-source community for ML libraries
 - ☕️ And all the coffee that fueled this project!
-
-
