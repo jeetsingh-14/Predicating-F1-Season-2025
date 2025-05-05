@@ -1,0 +1,79 @@
+Position,Driver,Team,Number,Laps,Time,Interval,Tyres,Km/h,race_name,Pits,Points
+1,G. Russell,Mercedes,63,91,1:29.545,—,M,217.579,Bahrain Preseason Test 3,,
+2,M. Verstappen,Red Bull Racing,1,81,1:29.566,0.021,M,217.528,Bahrain Preseason Test 3,,
+3,A. Albon,Williams,23,137,1:29.650,0.084,M,217.325,Bahrain Preseason Test 3,,
+4,O. Piastri,McLaren,81,85,1:29.940,0.290,M,216.624,Bahrain Preseason Test 3,,
+5,P. Gasly,Alpine,10,84,1:30.040,0.100,M,216.383,Bahrain Preseason Test 3,,
+6,L. Hamilton,Ferrari,44,47,1:30.345,0.305,M,215.653,Bahrain Preseason Test 3,,
+7,Y. Tsunoda,Racing Bulls,22,87,1:30.497,0.152,M,215.291,Bahrain Preseason Test 3,,
+8,E. Ocon,Haas F1 Team,31,103,1:30.728,0.231,M,214.742,Bahrain Preseason Test 3,,
+9,C. Leclerc,Ferrari,16,66,1:30.811,0.083,M,214.546,Bahrain Preseason Test 3,,
+10,A. Antonelli,Mercedes,12,61,1:30.888,0.077,M,214.364,Bahrain Preseason Test 3,,
+11,L. Norris,McLaren,4,57,1:30.943,0.055,M,214.235,Bahrain Preseason Test 3,,
+12,J. Doohan,Alpine,7,61,1:31.239,0.296,M,213.54,Bahrain Preseason Test 3,,
+13,L. Stroll,Aston Martin Racing,18,34,1:31.699,0.460,M,212.469,Bahrain Preseason Test 3,,
+14,N. Hulkenberg,Sauber,27,69,1:31.725,0.027,M,212.406,Bahrain Preseason Test 3,,
+15,I. Hadjar,Racing Bulls,6,73,1:31.761,0.035,M,212.325,Bahrain Preseason Test 3,,
+16,F. Alonso,Aston Martin Racing,14,82,1:32.084,0.323,M,211.58,Bahrain Preseason Test 3,,
+17,G. Bortoleto,Sauber,5,35,1:32.147,0.063,M,211.436,Bahrain Preseason Test 3,,
+18,O. Bearman,Haas F1 Team,87,59,1:32.361,0.214,M,210.946,Bahrain Preseason Test 3,,
+1,L. Norris,McLaren,4,57,1:42:06.304,—,,176.786,Australian GP,5.0,25.0
+2,M. Verstappen,Red Bull Racing,1,57,1:42:07.199,0.895,,176.76,Australian GP,5.0,18.0
+3,G. Russell,Mercedes,63,57,1:42:14.785,7.586,,176.541,Australian GP,5.0,15.0
+4,A. Antonelli,Mercedes,12,57,1:42:16.439,1.654,,176.494,Australian GP,5.0,12.0
+5,A. Albon,Williams,23,57,1:42:19.077,2.638,,176.418,Australian GP,5.0,10.0
+6,L. Stroll,Aston Martin Racing,18,57,1:42:23.717,4.640,,176.285,Australian GP,5.0,8.0
+7,N. Hulkenberg,Sauber,27,57,1:42:24.727,1.010,,176.256,Australian GP,5.0,6.0
+8,C. Leclerc,Ferrari,16,57,1:42:26.130,1.403,,176.215,Australian GP,5.0,4.0
+9,O. Piastri,McLaren,81,57,1:42:26.752,0.622,,176.198,Australian GP,5.0,2.0
+10,L. Hamilton,Ferrari,44,57,1:42:28.777,2.025,,176.14,Australian GP,5.0,1.0
+11,P. Gasly,Alpine,10,57,1:42:32.806,4.029,,176.024,Australian GP,5.0,0.0
+12,Y. Tsunoda,Racing Bulls,22,57,1:42:36.188,3.382,,175.927,Australian GP,5.0,0.0
+13,E. Ocon,Haas F1 Team,31,57,1:42:39.465,3.277,,175.834,Australian GP,5.0,0.0
+14,O. Bearman,Haas F1 Team,87,57,1:42:46.865,7.190,,175.629,Australian GP,5.0,0.0
+dnf,L. Lawson,Red Bull Racing,30,46,1:27:20.450,11 Laps,,177.273,Australian GP,4.0,4.0
+dnf,G. Bortoleto,Sauber,5,45,1:20:56.832,1 Lap,,176.091,Australian GP,1.0,3.0
+dnf,F. Alonso,Aston Martin Racing,14,32,5:54:4.463,13 Laps,,181.8,Australian GP,3.0,3.0
+dnf,C. Sainz,Williams,55,0,—,—,,0.0,Australian GP,0.0,0.0
+dnf,J. Doohan,Alpine,7,0,—,—,,0.0,Australian GP,0.0,0.0
+dns,I. Hadjar,Racing Bulls,6,0,—,—,,0.0,Australian GP,0.0,0.0
+1,O. Piastri,McLaren,81,56,1:30:55.026,—,,201.325,Chinese GP,1.0,25.0
+2,L. Norris,McLaren,4,56,1:30:04.774,9.748,,200.966,Chinese GP,1.0,18.0
+3,G. Russell,Mercedes,63,56,1:31:06.123,1.349,,200.917,Chinese GP,1.0,15.0
+4,M. Verstappen,Red Bull Racing,1,56,1:31:11.682,5.559,,200.712,Chinese GP,1.0,12.0
+dq,C. Leclerc,Ferrari,16,56,1:31:18.237,6.555,,200.472,Chinese GP,1.0,0.0
+dq,L. Hamilton,Ferrari,44,56,1:31:20.407,2.170,,200.393,Chinese GP,2.0,0.0
+5,E. Ocon,Haas F1 Team,31,56,1:31:44.996,24.588,,199.498,Chinese GP,1.0,10.0
+6,A. Antonelli,Mercedes,12,56,1:31:48.774,3.779,,199.361,Chinese GP,1.0,8.0
+dq,P. Gasly,Alpine,10,56,1:32:02.221,5.892,,198.876,Chinese GP,1.0,0.0
+7,A. Albon,Williams,23,56,1:31:51.347,2.573,,199.268,Chinese GP,1.0,6.0
+8,O. Bearman,Haas F1 Team,87,56,1:31:56.329,4.892,,199.088,Chinese GP,1.0,4.0
+9,L. Stroll,Aston Martin Racing,18,56,1:32:05.230,3.009,,198.767,Chinese GP,2.0,2.0
+10,C. Sainz,Williams,55,56,1:32:11.413,6.183,,198.545,Chinese GP,1.0,1.0
+11,I. Hadjar,Racing Bulls,6,56,1:32:13.301,2.488,,198.456,Chinese GP,2.0,0.0
+12,L. Lawson,Red Bull Racing,30,56,1:32:16.173,2.272,,198.374,Chinese GP,2.0,0.0
+13,J. Doohan,Alpine,7,56,1:32:23.427,7.254,,198.115,Chinese GP,2.0,0.0
+14,G. Bortoleto,Sauber,5,55,1:31:05.782,1 Lap,,197.339,Chinese GP,2.0,0.0
+15,N. Hulkenberg,Sauber,27,55,1:31:15.262,9.470,,196.998,Chinese GP,2.0,0.0
+16,Y. Tsunoda,Racing Bulls,22,55,1:31:18.537,3.285,,196.879,Chinese GP,2.0,0.0
+dnf,F. Alonso,Aston Martin Racing,14,4,7:25.574,51 Laps,,174.629,Chinese GP,1.0,0.0
+1,M. Verstappen,Red Bull Racing,1,53,1:22:06.983,—,,224.659,Japanese GP Data,1.0,25.0
+2,L. Norris,McLaren,4,53,1:22:08.406,1.423,,224.595,Japanese GP Data,1.0,18.0
+3,O. Piastri,McLaren,81,53,1:22:09.112,0.706,,224.562,Japanese GP Data,1.0,15.0
+4,C. Leclerc,Ferrari,16,53,1:22:23.080,13.988,,223.928,Japanese GP Data,1.0,12.0
+5,G. Russell,Mercedes,63,53,1:22:24.345,1.265,,223.871,Japanese GP Data,1.0,10.0
+6,A. Antonelli,Mercedes,12,53,1:22:25.654,1.309,,223.811,Japanese GP Data,1.0,8.0
+7,L. Hamilton,Ferrari,44,53,1:22:36.165,10.511,,223.337,Japanese GP Data,1.0,6.0
+8,I. Hadjar,Racing Bulls,6,53,1:22:44.117,7.952,,222.979,Japanese GP Data,1.0,4.0
+9,A. Albon,Williams,23,53,1:22:47.360,3.233,,222.834,Japanese GP Data,1.0,2.0
+10,O. Bearman,Haas F1 Team,87,53,1:23:01.512,14.162,,222.2,Japanese GP Data,1.0,1.0
+11,F. Alonso,Aston Martin Racing,14,53,1:23:04.316,2.804,,222.075,Japanese GP Data,1.0,1.0
+12,Y. Tsunoda,Red Bull Racing,22,53,1:23:05.384,1.068,,222.028,Japanese GP Data,1.0,1.0
+13,P. Gasly,Alpine,10,53,1:23:09.105,3.721,,221.862,Japanese GP Data,1.0,1.0
+14,C. Sainz,Williams,55,53,1:23:21.112,12.007,,221.329,Japanese GP Data,1.0,1.0
+15,J. Doohan,Alpine,7,53,1:23:28.297,7.185,,221.012,Japanese GP Data,1.0,1.0
+16,N. Hulkenberg,Sauber,27,53,1:23:28.940,0.643,,220.984,Japanese GP Data,1.0,1.0
+17,L. Lawson,Red Bull Racing,30,53,1:23:29.717,0.777,,220.949,Japanese GP Data,1.0,1.0
+18,E. Ocon,Haas F1 Team,31,53,1:23:30.421,0.704,,220.918,Japanese GP Data,1.0,1.0
+19,G. Bortoleto,Sauber,5,53,1:23:33.080,0.459,,220.898,Japanese GP Data,1.0,1.0
+20,L. Stroll,Aston Martin Racing,18,52,1:22:19.912,1 Lap,,219.84,Japanese GP Data,2.0,0.0

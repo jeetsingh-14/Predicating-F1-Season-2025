@@ -1,0 +1,421 @@
+race_name,date,driver,team,probability
+Bahrain Grand Prix,2025-04-13,M. Verstappen,Red Bull Racing,0.9991991951279351
+Bahrain Grand Prix,2025-04-13,C. Leclerc,Ferrari,0.9689860850135057
+Bahrain Grand Prix,2025-04-13,C. Sainz,Ferrari,0.9689860850135057
+Bahrain Grand Prix,2025-04-13,L. Norris,McLaren,0.9588168707466056
+Bahrain Grand Prix,2025-04-13,O. Piastri,McLaren,0.9588168707466056
+Bahrain Grand Prix,2025-04-13,L. Hamilton,Mercedes,0.9556322833631696
+Bahrain Grand Prix,2025-04-13,G. Russell,Mercedes,0.9556322833631696
+Bahrain Grand Prix,2025-04-13,S. Perez,Red Bull Racing,0.9509904695784255
+Bahrain Grand Prix,2025-04-13,L. Sargeant,Williams,0.9308051198548447
+Bahrain Grand Prix,2025-04-13,A. Albon,Williams,0.9307941644561206
+Bahrain Grand Prix,2025-04-13,K. Magnussen,Haas F1 Team,0.9118637007149277
+Bahrain Grand Prix,2025-04-13,E. Ocon,Alpine,0.8256080984790102
+Bahrain Grand Prix,2025-04-13,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Bahrain Grand Prix,2025-04-13,P. Gasly,Alpine,0.7680213812450223
+Bahrain Grand Prix,2025-04-13,D. Ricciardo,RB,0.7362638250567982
+Bahrain Grand Prix,2025-04-13,L. Stroll,Aston Martin,0.7105289704187935
+Bahrain Grand Prix,2025-04-13,F. Alonso,Aston Martin,0.7105180937103579
+Bahrain Grand Prix,2025-04-13,Z. Guanyu,Sauber,0.6560203343856074
+Bahrain Grand Prix,2025-04-13,V. Bottas,Sauber,0.656019882914867
+Bahrain Grand Prix,2025-04-13,Y. Tsunoda,RB,0.6
+Saudi Arabian Grand Prix,2025-04-20,M. Verstappen,Red Bull Racing,1.0
+Saudi Arabian Grand Prix,2025-04-20,C. Leclerc,Ferrari,0.9689860850135057
+Saudi Arabian Grand Prix,2025-04-20,C. Sainz,Ferrari,0.9689860850135057
+Saudi Arabian Grand Prix,2025-04-20,L. Norris,McLaren,0.9588168707466056
+Saudi Arabian Grand Prix,2025-04-20,O. Piastri,McLaren,0.9588168707466056
+Saudi Arabian Grand Prix,2025-04-20,L. Hamilton,Mercedes,0.9556322833631696
+Saudi Arabian Grand Prix,2025-04-20,G. Russell,Mercedes,0.9556322833631696
+Saudi Arabian Grand Prix,2025-04-20,S. Perez,Red Bull Racing,0.9509904695784255
+Saudi Arabian Grand Prix,2025-04-20,L. Sargeant,Williams,0.9308051198548447
+Saudi Arabian Grand Prix,2025-04-20,A. Albon,Williams,0.9307941644561206
+Saudi Arabian Grand Prix,2025-04-20,K. Magnussen,Haas F1 Team,0.8819765781890696
+Saudi Arabian Grand Prix,2025-04-20,E. Ocon,Alpine,0.8256080984790102
+Saudi Arabian Grand Prix,2025-04-20,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Saudi Arabian Grand Prix,2025-04-20,P. Gasly,Alpine,0.7680213812450223
+Saudi Arabian Grand Prix,2025-04-20,D. Ricciardo,RB,0.7362638250567982
+Saudi Arabian Grand Prix,2025-04-20,L. Stroll,Aston Martin,0.7105289704187935
+Saudi Arabian Grand Prix,2025-04-20,F. Alonso,Aston Martin,0.7105180937103579
+Saudi Arabian Grand Prix,2025-04-20,Z. Guanyu,Sauber,0.6560203343856074
+Saudi Arabian Grand Prix,2025-04-20,V. Bottas,Sauber,0.656019882914867
+Saudi Arabian Grand Prix,2025-04-20,Y. Tsunoda,RB,0.6
+Miami Grand Prix,2025-05-04,M. Verstappen,Red Bull Racing,0.9999579097824323
+Miami Grand Prix,2025-05-04,C. Leclerc,Ferrari,0.9689860850135057
+Miami Grand Prix,2025-05-04,C. Sainz,Ferrari,0.9689860850135057
+Miami Grand Prix,2025-05-04,L. Norris,McLaren,0.9588168707466056
+Miami Grand Prix,2025-05-04,O. Piastri,McLaren,0.9588168707466056
+Miami Grand Prix,2025-05-04,L. Hamilton,Mercedes,0.9556322833631696
+Miami Grand Prix,2025-05-04,G. Russell,Mercedes,0.9556322833631696
+Miami Grand Prix,2025-05-04,S. Perez,Red Bull Racing,0.9509904695784255
+Miami Grand Prix,2025-05-04,L. Sargeant,Williams,0.9308051198548447
+Miami Grand Prix,2025-05-04,A. Albon,Williams,0.9307941644561206
+Miami Grand Prix,2025-05-04,K. Magnussen,Haas F1 Team,0.8819765781890696
+Miami Grand Prix,2025-05-04,E. Ocon,Alpine,0.8256080984790102
+Miami Grand Prix,2025-05-04,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Miami Grand Prix,2025-05-04,P. Gasly,Alpine,0.7680213812450223
+Miami Grand Prix,2025-05-04,D. Ricciardo,RB,0.7362638250567982
+Miami Grand Prix,2025-05-04,L. Stroll,Aston Martin,0.7105289704187935
+Miami Grand Prix,2025-05-04,F. Alonso,Aston Martin,0.7105180937103579
+Miami Grand Prix,2025-05-04,Z. Guanyu,Sauber,0.6560203343856074
+Miami Grand Prix,2025-05-04,V. Bottas,Sauber,0.656019882914867
+Miami Grand Prix,2025-05-04,Y. Tsunoda,RB,0.6
+Emilia Romagna Grand Prix,2025-05-18,M. Verstappen,Red Bull Racing,1.0
+Emilia Romagna Grand Prix,2025-05-18,C. Leclerc,Ferrari,0.9689860850135057
+Emilia Romagna Grand Prix,2025-05-18,C. Sainz,Ferrari,0.9689860850135057
+Emilia Romagna Grand Prix,2025-05-18,L. Norris,McLaren,0.9588168707466056
+Emilia Romagna Grand Prix,2025-05-18,O. Piastri,McLaren,0.9588168707466056
+Emilia Romagna Grand Prix,2025-05-18,L. Hamilton,Mercedes,0.9556322833631696
+Emilia Romagna Grand Prix,2025-05-18,G. Russell,Mercedes,0.9556322833631696
+Emilia Romagna Grand Prix,2025-05-18,S. Perez,Red Bull Racing,0.9509904695784255
+Emilia Romagna Grand Prix,2025-05-18,L. Sargeant,Williams,0.9308051198548447
+Emilia Romagna Grand Prix,2025-05-18,A. Albon,Williams,0.9307941644561206
+Emilia Romagna Grand Prix,2025-05-18,K. Magnussen,Haas F1 Team,0.8819765781890696
+Emilia Romagna Grand Prix,2025-05-18,E. Ocon,Alpine,0.8256080984790102
+Emilia Romagna Grand Prix,2025-05-18,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Emilia Romagna Grand Prix,2025-05-18,P. Gasly,Alpine,0.7680213812450223
+Emilia Romagna Grand Prix,2025-05-18,D. Ricciardo,RB,0.7362638250567982
+Emilia Romagna Grand Prix,2025-05-18,L. Stroll,Aston Martin,0.7105289704187935
+Emilia Romagna Grand Prix,2025-05-18,F. Alonso,Aston Martin,0.7105180937103579
+Emilia Romagna Grand Prix,2025-05-18,Z. Guanyu,Sauber,0.6560203343856074
+Emilia Romagna Grand Prix,2025-05-18,V. Bottas,Sauber,0.656019882914867
+Emilia Romagna Grand Prix,2025-05-18,Y. Tsunoda,RB,0.6
+Monaco Grand Prix,2025-05-25,M. Verstappen,Red Bull Racing,0.9989602446596758
+Monaco Grand Prix,2025-05-25,C. Leclerc,Ferrari,0.9690947513416437
+Monaco Grand Prix,2025-05-25,C. Sainz,Ferrari,0.9690947513416437
+Monaco Grand Prix,2025-05-25,L. Norris,McLaren,0.9582285492398732
+Monaco Grand Prix,2025-05-25,O. Piastri,McLaren,0.9582285492398732
+Monaco Grand Prix,2025-05-25,L. Hamilton,Mercedes,0.9539223964868977
+Monaco Grand Prix,2025-05-25,G. Russell,Mercedes,0.9539223964868977
+Monaco Grand Prix,2025-05-25,S. Perez,Red Bull Racing,0.9494575977378259
+Monaco Grand Prix,2025-05-25,L. Sargeant,Williams,0.9288166196895338
+Monaco Grand Prix,2025-05-25,A. Albon,Williams,0.928805559857483
+Monaco Grand Prix,2025-05-25,K. Magnussen,Haas F1 Team,0.9053592249254705
+Monaco Grand Prix,2025-05-25,E. Ocon,Alpine,0.8244493058172383
+Monaco Grand Prix,2025-05-25,N. Hulkenberg,Haas F1 Team,0.77107802742067
+Monaco Grand Prix,2025-05-25,P. Gasly,Alpine,0.766578560410124
+Monaco Grand Prix,2025-05-25,D. Ricciardo,RB,0.7392492699080055
+Monaco Grand Prix,2025-05-25,L. Stroll,Aston Martin,0.7137138550628687
+Monaco Grand Prix,2025-05-25,F. Alonso,Aston Martin,0.7137031572838092
+Monaco Grand Prix,2025-05-25,Z. Guanyu,Sauber,0.648150512338901
+Monaco Grand Prix,2025-05-25,V. Bottas,Sauber,0.6481499548237746
+Monaco Grand Prix,2025-05-25,Y. Tsunoda,RB,0.603178191536556
+Spanish Grand Prix,2025-06-01,M. Verstappen,Red Bull Racing,0.9991882202374878
+Spanish Grand Prix,2025-06-01,C. Leclerc,Ferrari,0.9689860850135057
+Spanish Grand Prix,2025-06-01,C. Sainz,Ferrari,0.9689860850135057
+Spanish Grand Prix,2025-06-01,L. Norris,McLaren,0.9588168707466056
+Spanish Grand Prix,2025-06-01,O. Piastri,McLaren,0.9588168707466056
+Spanish Grand Prix,2025-06-01,L. Hamilton,Mercedes,0.9556322833631696
+Spanish Grand Prix,2025-06-01,G. Russell,Mercedes,0.9556322833631696
+Spanish Grand Prix,2025-06-01,S. Perez,Red Bull Racing,0.9509904695784255
+Spanish Grand Prix,2025-06-01,L. Sargeant,Williams,0.9308051198548447
+Spanish Grand Prix,2025-06-01,A. Albon,Williams,0.9307941644561206
+Spanish Grand Prix,2025-06-01,K. Magnussen,Haas F1 Team,0.9109571983358702
+Spanish Grand Prix,2025-06-01,E. Ocon,Alpine,0.8256080984790102
+Spanish Grand Prix,2025-06-01,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Spanish Grand Prix,2025-06-01,P. Gasly,Alpine,0.7680213812450223
+Spanish Grand Prix,2025-06-01,D. Ricciardo,RB,0.7362638250567982
+Spanish Grand Prix,2025-06-01,L. Stroll,Aston Martin,0.7105289704187935
+Spanish Grand Prix,2025-06-01,F. Alonso,Aston Martin,0.7105180937103579
+Spanish Grand Prix,2025-06-01,Z. Guanyu,Sauber,0.6560203343856074
+Spanish Grand Prix,2025-06-01,V. Bottas,Sauber,0.656019882914867
+Spanish Grand Prix,2025-06-01,Y. Tsunoda,RB,0.6
+Canadian Grand Prix,2025-06-15,M. Verstappen,Red Bull Racing,0.9997661719677303
+Canadian Grand Prix,2025-06-15,C. Leclerc,Ferrari,0.9689860850135057
+Canadian Grand Prix,2025-06-15,C. Sainz,Ferrari,0.9689860850135057
+Canadian Grand Prix,2025-06-15,L. Norris,McLaren,0.9588168707466056
+Canadian Grand Prix,2025-06-15,O. Piastri,McLaren,0.9588168707466056
+Canadian Grand Prix,2025-06-15,L. Hamilton,Mercedes,0.9556322833631696
+Canadian Grand Prix,2025-06-15,G. Russell,Mercedes,0.9556322833631696
+Canadian Grand Prix,2025-06-15,S. Perez,Red Bull Racing,0.9509904695784255
+Canadian Grand Prix,2025-06-15,L. Sargeant,Williams,0.9308051198548447
+Canadian Grand Prix,2025-06-15,A. Albon,Williams,0.9307941644561206
+Canadian Grand Prix,2025-06-15,K. Magnussen,Haas F1 Team,0.8657663225897974
+Canadian Grand Prix,2025-06-15,E. Ocon,Alpine,0.8256080984790102
+Canadian Grand Prix,2025-06-15,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Canadian Grand Prix,2025-06-15,P. Gasly,Alpine,0.7680213812450223
+Canadian Grand Prix,2025-06-15,D. Ricciardo,RB,0.7362638250567982
+Canadian Grand Prix,2025-06-15,L. Stroll,Aston Martin,0.7105289704187935
+Canadian Grand Prix,2025-06-15,F. Alonso,Aston Martin,0.7105180937103579
+Canadian Grand Prix,2025-06-15,Z. Guanyu,Sauber,0.6560203343856074
+Canadian Grand Prix,2025-06-15,V. Bottas,Sauber,0.656019882914867
+Canadian Grand Prix,2025-06-15,Y. Tsunoda,RB,0.6
+Austrian Grand Prix,2025-06-29,M. Verstappen,Red Bull Racing,0.998881907212014
+Austrian Grand Prix,2025-06-29,C. Leclerc,Ferrari,0.9690947513416437
+Austrian Grand Prix,2025-06-29,C. Sainz,Ferrari,0.9690947513416437
+Austrian Grand Prix,2025-06-29,L. Norris,McLaren,0.9582285492398732
+Austrian Grand Prix,2025-06-29,O. Piastri,McLaren,0.9582285492398732
+Austrian Grand Prix,2025-06-29,L. Hamilton,Mercedes,0.9539223964868977
+Austrian Grand Prix,2025-06-29,G. Russell,Mercedes,0.9539223964868977
+Austrian Grand Prix,2025-06-29,S. Perez,Red Bull Racing,0.9494575977378259
+Austrian Grand Prix,2025-06-29,L. Sargeant,Williams,0.9288166196895338
+Austrian Grand Prix,2025-06-29,A. Albon,Williams,0.928805559857483
+Austrian Grand Prix,2025-06-29,K. Magnussen,Haas F1 Team,0.9097102664320129
+Austrian Grand Prix,2025-06-29,E. Ocon,Alpine,0.8244493058172383
+Austrian Grand Prix,2025-06-29,N. Hulkenberg,Haas F1 Team,0.77107802742067
+Austrian Grand Prix,2025-06-29,P. Gasly,Alpine,0.766578560410124
+Austrian Grand Prix,2025-06-29,D. Ricciardo,RB,0.7392492699080055
+Austrian Grand Prix,2025-06-29,L. Stroll,Aston Martin,0.7137138550628687
+Austrian Grand Prix,2025-06-29,F. Alonso,Aston Martin,0.7137031572838092
+Austrian Grand Prix,2025-06-29,Z. Guanyu,Sauber,0.648150512338901
+Austrian Grand Prix,2025-06-29,V. Bottas,Sauber,0.6481499548237746
+Austrian Grand Prix,2025-06-29,Y. Tsunoda,RB,0.603178191536556
+British Grand Prix,2025-07-06,M. Verstappen,Red Bull Racing,0.9988966719032417
+British Grand Prix,2025-07-06,C. Leclerc,Ferrari,0.9690947513416437
+British Grand Prix,2025-07-06,C. Sainz,Ferrari,0.9690947513416437
+British Grand Prix,2025-07-06,L. Norris,McLaren,0.9582285492398732
+British Grand Prix,2025-07-06,O. Piastri,McLaren,0.9582285492398732
+British Grand Prix,2025-07-06,L. Hamilton,Mercedes,0.9539223964868977
+British Grand Prix,2025-07-06,G. Russell,Mercedes,0.9539223964868977
+British Grand Prix,2025-07-06,S. Perez,Red Bull Racing,0.9494575977378259
+British Grand Prix,2025-07-06,L. Sargeant,Williams,0.9288166196895338
+British Grand Prix,2025-07-06,A. Albon,Williams,0.928805559857483
+British Grand Prix,2025-07-06,K. Magnussen,Haas F1 Team,0.9097102664320129
+British Grand Prix,2025-07-06,E. Ocon,Alpine,0.8244493058172383
+British Grand Prix,2025-07-06,N. Hulkenberg,Haas F1 Team,0.77107802742067
+British Grand Prix,2025-07-06,P. Gasly,Alpine,0.766578560410124
+British Grand Prix,2025-07-06,D. Ricciardo,RB,0.7392492699080055
+British Grand Prix,2025-07-06,L. Stroll,Aston Martin,0.7137138550628687
+British Grand Prix,2025-07-06,F. Alonso,Aston Martin,0.7137031572838092
+British Grand Prix,2025-07-06,Z. Guanyu,Sauber,0.648150512338901
+British Grand Prix,2025-07-06,V. Bottas,Sauber,0.6481499548237746
+British Grand Prix,2025-07-06,Y. Tsunoda,RB,0.603178191536556
+Belgian Grand Prix,2025-07-27,M. Verstappen,Red Bull Racing,0.9997661719677303
+Belgian Grand Prix,2025-07-27,C. Leclerc,Ferrari,0.9689860850135057
+Belgian Grand Prix,2025-07-27,C. Sainz,Ferrari,0.9689860850135057
+Belgian Grand Prix,2025-07-27,L. Norris,McLaren,0.9588168707466056
+Belgian Grand Prix,2025-07-27,O. Piastri,McLaren,0.9588168707466056
+Belgian Grand Prix,2025-07-27,L. Hamilton,Mercedes,0.9556322833631696
+Belgian Grand Prix,2025-07-27,G. Russell,Mercedes,0.9556322833631696
+Belgian Grand Prix,2025-07-27,S. Perez,Red Bull Racing,0.9509904695784255
+Belgian Grand Prix,2025-07-27,L. Sargeant,Williams,0.9308051198548447
+Belgian Grand Prix,2025-07-27,A. Albon,Williams,0.9307941644561206
+Belgian Grand Prix,2025-07-27,K. Magnussen,Haas F1 Team,0.8657663225897974
+Belgian Grand Prix,2025-07-27,E. Ocon,Alpine,0.8256080984790102
+Belgian Grand Prix,2025-07-27,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Belgian Grand Prix,2025-07-27,P. Gasly,Alpine,0.7680213812450223
+Belgian Grand Prix,2025-07-27,D. Ricciardo,RB,0.7362638250567982
+Belgian Grand Prix,2025-07-27,L. Stroll,Aston Martin,0.7105289704187935
+Belgian Grand Prix,2025-07-27,F. Alonso,Aston Martin,0.7105180937103579
+Belgian Grand Prix,2025-07-27,Z. Guanyu,Sauber,0.6560203343856074
+Belgian Grand Prix,2025-07-27,V. Bottas,Sauber,0.656019882914867
+Belgian Grand Prix,2025-07-27,Y. Tsunoda,RB,0.6
+Hungarian Grand Prix,2025-08-03,M. Verstappen,Red Bull Racing,0.998875444743625
+Hungarian Grand Prix,2025-08-03,C. Leclerc,Ferrari,0.9690947513416437
+Hungarian Grand Prix,2025-08-03,C. Sainz,Ferrari,0.9690947513416437
+Hungarian Grand Prix,2025-08-03,L. Norris,McLaren,0.9582285492398732
+Hungarian Grand Prix,2025-08-03,O. Piastri,McLaren,0.9582285492398732
+Hungarian Grand Prix,2025-08-03,L. Hamilton,Mercedes,0.9539223964868977
+Hungarian Grand Prix,2025-08-03,G. Russell,Mercedes,0.9539223964868977
+Hungarian Grand Prix,2025-08-03,S. Perez,Red Bull Racing,0.9494575977378259
+Hungarian Grand Prix,2025-08-03,L. Sargeant,Williams,0.9288166196895338
+Hungarian Grand Prix,2025-08-03,A. Albon,Williams,0.928805559857483
+Hungarian Grand Prix,2025-08-03,K. Magnussen,Haas F1 Team,0.9086371535583557
+Hungarian Grand Prix,2025-08-03,E. Ocon,Alpine,0.8244493058172383
+Hungarian Grand Prix,2025-08-03,N. Hulkenberg,Haas F1 Team,0.77107802742067
+Hungarian Grand Prix,2025-08-03,P. Gasly,Alpine,0.766578560410124
+Hungarian Grand Prix,2025-08-03,D. Ricciardo,RB,0.7392492699080055
+Hungarian Grand Prix,2025-08-03,L. Stroll,Aston Martin,0.7137138550628687
+Hungarian Grand Prix,2025-08-03,F. Alonso,Aston Martin,0.7137031572838092
+Hungarian Grand Prix,2025-08-03,Z. Guanyu,Sauber,0.648150512338901
+Hungarian Grand Prix,2025-08-03,V. Bottas,Sauber,0.6481499548237746
+Hungarian Grand Prix,2025-08-03,Y. Tsunoda,RB,0.603178191536556
+Dutch Grand Prix,2025-08-31,M. Verstappen,Red Bull Racing,1.0
+Dutch Grand Prix,2025-08-31,C. Leclerc,Ferrari,0.9689860850135057
+Dutch Grand Prix,2025-08-31,C. Sainz,Ferrari,0.9689860850135057
+Dutch Grand Prix,2025-08-31,L. Norris,McLaren,0.9588168707466056
+Dutch Grand Prix,2025-08-31,O. Piastri,McLaren,0.9588168707466056
+Dutch Grand Prix,2025-08-31,L. Hamilton,Mercedes,0.9556322833631696
+Dutch Grand Prix,2025-08-31,G. Russell,Mercedes,0.9556322833631696
+Dutch Grand Prix,2025-08-31,S. Perez,Red Bull Racing,0.9509904695784255
+Dutch Grand Prix,2025-08-31,L. Sargeant,Williams,0.9308051198548447
+Dutch Grand Prix,2025-08-31,A. Albon,Williams,0.9307941644561206
+Dutch Grand Prix,2025-08-31,K. Magnussen,Haas F1 Team,0.8819765781890696
+Dutch Grand Prix,2025-08-31,E. Ocon,Alpine,0.8256080984790102
+Dutch Grand Prix,2025-08-31,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Dutch Grand Prix,2025-08-31,P. Gasly,Alpine,0.7680213812450223
+Dutch Grand Prix,2025-08-31,D. Ricciardo,RB,0.7362638250567982
+Dutch Grand Prix,2025-08-31,L. Stroll,Aston Martin,0.7105289704187935
+Dutch Grand Prix,2025-08-31,F. Alonso,Aston Martin,0.7105180937103579
+Dutch Grand Prix,2025-08-31,Z. Guanyu,Sauber,0.6560203343856074
+Dutch Grand Prix,2025-08-31,V. Bottas,Sauber,0.656019882914867
+Dutch Grand Prix,2025-08-31,Y. Tsunoda,RB,0.6
+Italian Grand Prix,2025-09-07,M. Verstappen,Red Bull Racing,0.9991882202374878
+Italian Grand Prix,2025-09-07,C. Leclerc,Ferrari,0.9689860850135057
+Italian Grand Prix,2025-09-07,C. Sainz,Ferrari,0.9689860850135057
+Italian Grand Prix,2025-09-07,L. Norris,McLaren,0.9588168707466056
+Italian Grand Prix,2025-09-07,O. Piastri,McLaren,0.9588168707466056
+Italian Grand Prix,2025-09-07,L. Hamilton,Mercedes,0.9556322833631696
+Italian Grand Prix,2025-09-07,G. Russell,Mercedes,0.9556322833631696
+Italian Grand Prix,2025-09-07,S. Perez,Red Bull Racing,0.9509904695784255
+Italian Grand Prix,2025-09-07,L. Sargeant,Williams,0.9308051198548447
+Italian Grand Prix,2025-09-07,A. Albon,Williams,0.9307941644561206
+Italian Grand Prix,2025-09-07,K. Magnussen,Haas F1 Team,0.9109571983358702
+Italian Grand Prix,2025-09-07,E. Ocon,Alpine,0.8256080984790102
+Italian Grand Prix,2025-09-07,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Italian Grand Prix,2025-09-07,P. Gasly,Alpine,0.7680213812450223
+Italian Grand Prix,2025-09-07,D. Ricciardo,RB,0.7362638250567982
+Italian Grand Prix,2025-09-07,L. Stroll,Aston Martin,0.7105289704187935
+Italian Grand Prix,2025-09-07,F. Alonso,Aston Martin,0.7105180937103579
+Italian Grand Prix,2025-09-07,Z. Guanyu,Sauber,0.6560203343856074
+Italian Grand Prix,2025-09-07,V. Bottas,Sauber,0.656019882914867
+Italian Grand Prix,2025-09-07,Y. Tsunoda,RB,0.6
+Azerbaijan Grand Prix,2025-09-21,M. Verstappen,Red Bull Racing,0.9996188938199859
+Azerbaijan Grand Prix,2025-09-21,C. Leclerc,Ferrari,0.9689860850135057
+Azerbaijan Grand Prix,2025-09-21,C. Sainz,Ferrari,0.9689860850135057
+Azerbaijan Grand Prix,2025-09-21,L. Norris,McLaren,0.9588168707466056
+Azerbaijan Grand Prix,2025-09-21,O. Piastri,McLaren,0.9588168707466056
+Azerbaijan Grand Prix,2025-09-21,L. Hamilton,Mercedes,0.9556322833631696
+Azerbaijan Grand Prix,2025-09-21,G. Russell,Mercedes,0.9556322833631696
+Azerbaijan Grand Prix,2025-09-21,S. Perez,Red Bull Racing,0.9509904695784255
+Azerbaijan Grand Prix,2025-09-21,L. Sargeant,Williams,0.9308051198548447
+Azerbaijan Grand Prix,2025-09-21,A. Albon,Williams,0.9307941644561206
+Azerbaijan Grand Prix,2025-09-21,K. Magnussen,Haas F1 Team,0.9048738689797432
+Azerbaijan Grand Prix,2025-09-21,E. Ocon,Alpine,0.8256080984790102
+Azerbaijan Grand Prix,2025-09-21,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Azerbaijan Grand Prix,2025-09-21,P. Gasly,Alpine,0.7680213812450223
+Azerbaijan Grand Prix,2025-09-21,D. Ricciardo,RB,0.7362638250567982
+Azerbaijan Grand Prix,2025-09-21,L. Stroll,Aston Martin,0.7105289704187935
+Azerbaijan Grand Prix,2025-09-21,F. Alonso,Aston Martin,0.7105180937103579
+Azerbaijan Grand Prix,2025-09-21,Z. Guanyu,Sauber,0.6560203343856074
+Azerbaijan Grand Prix,2025-09-21,V. Bottas,Sauber,0.656019882914867
+Azerbaijan Grand Prix,2025-09-21,Y. Tsunoda,RB,0.6
+Singapore Grand Prix,2025-10-05,M. Verstappen,Red Bull Racing,0.9996188938199859
+Singapore Grand Prix,2025-10-05,C. Leclerc,Ferrari,0.9689860850135057
+Singapore Grand Prix,2025-10-05,C. Sainz,Ferrari,0.9689860850135057
+Singapore Grand Prix,2025-10-05,L. Norris,McLaren,0.9588168707466056
+Singapore Grand Prix,2025-10-05,O. Piastri,McLaren,0.9588168707466056
+Singapore Grand Prix,2025-10-05,L. Hamilton,Mercedes,0.9556322833631696
+Singapore Grand Prix,2025-10-05,G. Russell,Mercedes,0.9556322833631696
+Singapore Grand Prix,2025-10-05,S. Perez,Red Bull Racing,0.9509904695784255
+Singapore Grand Prix,2025-10-05,L. Sargeant,Williams,0.9308051198548447
+Singapore Grand Prix,2025-10-05,A. Albon,Williams,0.9307941644561206
+Singapore Grand Prix,2025-10-05,K. Magnussen,Haas F1 Team,0.9075128895109468
+Singapore Grand Prix,2025-10-05,E. Ocon,Alpine,0.8256080984790102
+Singapore Grand Prix,2025-10-05,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Singapore Grand Prix,2025-10-05,P. Gasly,Alpine,0.7680213812450223
+Singapore Grand Prix,2025-10-05,D. Ricciardo,RB,0.7362638250567982
+Singapore Grand Prix,2025-10-05,L. Stroll,Aston Martin,0.7105289704187935
+Singapore Grand Prix,2025-10-05,F. Alonso,Aston Martin,0.7105180937103579
+Singapore Grand Prix,2025-10-05,Z. Guanyu,Sauber,0.6560203343856074
+Singapore Grand Prix,2025-10-05,V. Bottas,Sauber,0.656019882914867
+Singapore Grand Prix,2025-10-05,Y. Tsunoda,RB,0.6
+United States Grand Prix,2025-10-19,M. Verstappen,Red Bull Racing,0.9997661719677303
+United States Grand Prix,2025-10-19,C. Leclerc,Ferrari,0.9689860850135057
+United States Grand Prix,2025-10-19,C. Sainz,Ferrari,0.9689860850135057
+United States Grand Prix,2025-10-19,L. Norris,McLaren,0.9588168707466056
+United States Grand Prix,2025-10-19,O. Piastri,McLaren,0.9588168707466056
+United States Grand Prix,2025-10-19,L. Hamilton,Mercedes,0.9556322833631696
+United States Grand Prix,2025-10-19,G. Russell,Mercedes,0.9556322833631696
+United States Grand Prix,2025-10-19,S. Perez,Red Bull Racing,0.9509904695784255
+United States Grand Prix,2025-10-19,L. Sargeant,Williams,0.9308051198548447
+United States Grand Prix,2025-10-19,A. Albon,Williams,0.9307941644561206
+United States Grand Prix,2025-10-19,K. Magnussen,Haas F1 Team,0.8657663225897974
+United States Grand Prix,2025-10-19,E. Ocon,Alpine,0.8256080984790102
+United States Grand Prix,2025-10-19,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+United States Grand Prix,2025-10-19,P. Gasly,Alpine,0.7680213812450223
+United States Grand Prix,2025-10-19,D. Ricciardo,RB,0.7362638250567982
+United States Grand Prix,2025-10-19,L. Stroll,Aston Martin,0.7105289704187935
+United States Grand Prix,2025-10-19,F. Alonso,Aston Martin,0.7105180937103579
+United States Grand Prix,2025-10-19,Z. Guanyu,Sauber,0.6560203343856074
+United States Grand Prix,2025-10-19,V. Bottas,Sauber,0.656019882914867
+United States Grand Prix,2025-10-19,Y. Tsunoda,RB,0.6
+Mexico City Grand Prix,2025-10-26,M. Verstappen,Red Bull Racing,0.9994219172597261
+Mexico City Grand Prix,2025-10-26,C. Leclerc,Ferrari,0.9689860850135057
+Mexico City Grand Prix,2025-10-26,C. Sainz,Ferrari,0.9689860850135057
+Mexico City Grand Prix,2025-10-26,L. Norris,McLaren,0.9588168707466056
+Mexico City Grand Prix,2025-10-26,O. Piastri,McLaren,0.9588168707466056
+Mexico City Grand Prix,2025-10-26,L. Hamilton,Mercedes,0.9556322833631696
+Mexico City Grand Prix,2025-10-26,G. Russell,Mercedes,0.9556322833631696
+Mexico City Grand Prix,2025-10-26,S. Perez,Red Bull Racing,0.9509904695784255
+Mexico City Grand Prix,2025-10-26,L. Sargeant,Williams,0.9308051198548447
+Mexico City Grand Prix,2025-10-26,A. Albon,Williams,0.9307941644561206
+Mexico City Grand Prix,2025-10-26,K. Magnussen,Haas F1 Team,0.9077629353033903
+Mexico City Grand Prix,2025-10-26,E. Ocon,Alpine,0.8256080984790102
+Mexico City Grand Prix,2025-10-26,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Mexico City Grand Prix,2025-10-26,P. Gasly,Alpine,0.7680213812450223
+Mexico City Grand Prix,2025-10-26,D. Ricciardo,RB,0.7362638250567982
+Mexico City Grand Prix,2025-10-26,L. Stroll,Aston Martin,0.7105289704187935
+Mexico City Grand Prix,2025-10-26,F. Alonso,Aston Martin,0.7105180937103579
+Mexico City Grand Prix,2025-10-26,Z. Guanyu,Sauber,0.6560203343856074
+Mexico City Grand Prix,2025-10-26,V. Bottas,Sauber,0.656019882914867
+Mexico City Grand Prix,2025-10-26,Y. Tsunoda,RB,0.6
+São Paulo Grand Prix,2025-11-09,M. Verstappen,Red Bull Racing,0.9994219172597261
+São Paulo Grand Prix,2025-11-09,C. Leclerc,Ferrari,0.9689860850135057
+São Paulo Grand Prix,2025-11-09,C. Sainz,Ferrari,0.9689860850135057
+São Paulo Grand Prix,2025-11-09,L. Norris,McLaren,0.9588168707466056
+São Paulo Grand Prix,2025-11-09,O. Piastri,McLaren,0.9588168707466056
+São Paulo Grand Prix,2025-11-09,L. Hamilton,Mercedes,0.9556322833631696
+São Paulo Grand Prix,2025-11-09,G. Russell,Mercedes,0.9556322833631696
+São Paulo Grand Prix,2025-11-09,S. Perez,Red Bull Racing,0.9509904695784255
+São Paulo Grand Prix,2025-11-09,L. Sargeant,Williams,0.9308051198548447
+São Paulo Grand Prix,2025-11-09,A. Albon,Williams,0.9307941644561206
+São Paulo Grand Prix,2025-11-09,K. Magnussen,Haas F1 Team,0.9077629353033903
+São Paulo Grand Prix,2025-11-09,E. Ocon,Alpine,0.8256080984790102
+São Paulo Grand Prix,2025-11-09,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+São Paulo Grand Prix,2025-11-09,P. Gasly,Alpine,0.7680213812450223
+São Paulo Grand Prix,2025-11-09,D. Ricciardo,RB,0.7362638250567982
+São Paulo Grand Prix,2025-11-09,L. Stroll,Aston Martin,0.7105289704187935
+São Paulo Grand Prix,2025-11-09,F. Alonso,Aston Martin,0.7105180937103579
+São Paulo Grand Prix,2025-11-09,Z. Guanyu,Sauber,0.6560203343856074
+São Paulo Grand Prix,2025-11-09,V. Bottas,Sauber,0.656019882914867
+São Paulo Grand Prix,2025-11-09,Y. Tsunoda,RB,0.6
+Las Vegas Grand Prix,2025-11-22,M. Verstappen,Red Bull Racing,0.9997661719677303
+Las Vegas Grand Prix,2025-11-22,C. Leclerc,Ferrari,0.9689860850135057
+Las Vegas Grand Prix,2025-11-22,C. Sainz,Ferrari,0.9689860850135057
+Las Vegas Grand Prix,2025-11-22,L. Norris,McLaren,0.9588168707466056
+Las Vegas Grand Prix,2025-11-22,O. Piastri,McLaren,0.9588168707466056
+Las Vegas Grand Prix,2025-11-22,L. Hamilton,Mercedes,0.9556322833631696
+Las Vegas Grand Prix,2025-11-22,G. Russell,Mercedes,0.9556322833631696
+Las Vegas Grand Prix,2025-11-22,S. Perez,Red Bull Racing,0.9509904695784255
+Las Vegas Grand Prix,2025-11-22,L. Sargeant,Williams,0.9308051198548447
+Las Vegas Grand Prix,2025-11-22,A. Albon,Williams,0.9307941644561206
+Las Vegas Grand Prix,2025-11-22,K. Magnussen,Haas F1 Team,0.8657663225897974
+Las Vegas Grand Prix,2025-11-22,E. Ocon,Alpine,0.8256080984790102
+Las Vegas Grand Prix,2025-11-22,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Las Vegas Grand Prix,2025-11-22,P. Gasly,Alpine,0.7680213812450223
+Las Vegas Grand Prix,2025-11-22,D. Ricciardo,RB,0.7362638250567982
+Las Vegas Grand Prix,2025-11-22,L. Stroll,Aston Martin,0.7105289704187935
+Las Vegas Grand Prix,2025-11-22,F. Alonso,Aston Martin,0.7105180937103579
+Las Vegas Grand Prix,2025-11-22,Z. Guanyu,Sauber,0.6560203343856074
+Las Vegas Grand Prix,2025-11-22,V. Bottas,Sauber,0.656019882914867
+Las Vegas Grand Prix,2025-11-22,Y. Tsunoda,RB,0.6
+Qatar Grand Prix,2025-11-30,M. Verstappen,Red Bull Racing,0.9999579097824323
+Qatar Grand Prix,2025-11-30,C. Leclerc,Ferrari,0.9689860850135057
+Qatar Grand Prix,2025-11-30,C. Sainz,Ferrari,0.9689860850135057
+Qatar Grand Prix,2025-11-30,L. Norris,McLaren,0.9588168707466056
+Qatar Grand Prix,2025-11-30,O. Piastri,McLaren,0.9588168707466056
+Qatar Grand Prix,2025-11-30,L. Hamilton,Mercedes,0.9556322833631696
+Qatar Grand Prix,2025-11-30,G. Russell,Mercedes,0.9556322833631696
+Qatar Grand Prix,2025-11-30,S. Perez,Red Bull Racing,0.9509904695784255
+Qatar Grand Prix,2025-11-30,L. Sargeant,Williams,0.9308051198548447
+Qatar Grand Prix,2025-11-30,A. Albon,Williams,0.9307941644561206
+Qatar Grand Prix,2025-11-30,K. Magnussen,Haas F1 Team,0.8732479309831873
+Qatar Grand Prix,2025-11-30,E. Ocon,Alpine,0.8256080984790102
+Qatar Grand Prix,2025-11-30,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Qatar Grand Prix,2025-11-30,P. Gasly,Alpine,0.7680213812450223
+Qatar Grand Prix,2025-11-30,D. Ricciardo,RB,0.7362638250567982
+Qatar Grand Prix,2025-11-30,L. Stroll,Aston Martin,0.7105289704187935
+Qatar Grand Prix,2025-11-30,F. Alonso,Aston Martin,0.7105180937103579
+Qatar Grand Prix,2025-11-30,Z. Guanyu,Sauber,0.6560203343856074
+Qatar Grand Prix,2025-11-30,V. Bottas,Sauber,0.656019882914867
+Qatar Grand Prix,2025-11-30,Y. Tsunoda,RB,0.6
+Abu Dhabi Grand Prix,2025-12-07,M. Verstappen,Red Bull Racing,0.9991882202374878
+Abu Dhabi Grand Prix,2025-12-07,C. Leclerc,Ferrari,0.9689860850135057
+Abu Dhabi Grand Prix,2025-12-07,C. Sainz,Ferrari,0.9689860850135057
+Abu Dhabi Grand Prix,2025-12-07,L. Norris,McLaren,0.9588168707466056
+Abu Dhabi Grand Prix,2025-12-07,O. Piastri,McLaren,0.9588168707466056
+Abu Dhabi Grand Prix,2025-12-07,L. Hamilton,Mercedes,0.9556322833631696
+Abu Dhabi Grand Prix,2025-12-07,G. Russell,Mercedes,0.9556322833631696
+Abu Dhabi Grand Prix,2025-12-07,S. Perez,Red Bull Racing,0.9509904695784255
+Abu Dhabi Grand Prix,2025-12-07,L. Sargeant,Williams,0.9308051198548447
+Abu Dhabi Grand Prix,2025-12-07,A. Albon,Williams,0.9307941644561206
+Abu Dhabi Grand Prix,2025-12-07,K. Magnussen,Haas F1 Team,0.9109571983358702
+Abu Dhabi Grand Prix,2025-12-07,E. Ocon,Alpine,0.8256080984790102
+Abu Dhabi Grand Prix,2025-12-07,N. Hulkenberg,Haas F1 Team,0.7698133555767376
+Abu Dhabi Grand Prix,2025-12-07,P. Gasly,Alpine,0.7680213812450223
+Abu Dhabi Grand Prix,2025-12-07,D. Ricciardo,RB,0.7362638250567982
+Abu Dhabi Grand Prix,2025-12-07,L. Stroll,Aston Martin,0.7105289704187935
+Abu Dhabi Grand Prix,2025-12-07,F. Alonso,Aston Martin,0.7105180937103579
+Abu Dhabi Grand Prix,2025-12-07,Z. Guanyu,Sauber,0.6560203343856074
+Abu Dhabi Grand Prix,2025-12-07,V. Bottas,Sauber,0.656019882914867
+Abu Dhabi Grand Prix,2025-12-07,Y. Tsunoda,RB,0.6

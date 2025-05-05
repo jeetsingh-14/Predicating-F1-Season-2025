@@ -1,0 +1,421 @@
+race_name,date,circuit,driver,team,grid_position,driver_code,constructor_code,position_change,podium,circuitRef,driverRef,constructorRef,recent_driver_form,constructor_win_rate,circuit_familiarity,driver_experience,constructor_experience,grid_importance,weather_impact
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,bahrain,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,11.0,209.0,788,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,bahrain,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,C. Leclerc,Ferrari,0,1,2,0,0,bahrain,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,C. Sainz,Ferrari,0,2,2,0,0,bahrain,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,L. Hamilton,Mercedes,0,8,5,0,0,bahrain,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,G. Russell,Mercedes,0,6,5,0,0,bahrain,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,L. Norris,McLaren,0,9,4,0,0,bahrain,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,O. Piastri,McLaren,0,14,4,0,0,bahrain,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,F. Alonso,Aston Martin,0,5,1,0,0,bahrain,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,L. Stroll,Aston Martin,0,11,1,0,0,bahrain,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,E. Ocon,Alpine,0,4,0,0,0,bahrain,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,P. Gasly,Alpine,0,15,0,0,0,bahrain,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,A. Albon,Williams,0,0,9,0,0,bahrain,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,L. Sargeant,Williams,0,10,9,0,0,bahrain,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,D. Ricciardo,RB,0,3,6,0,0,bahrain,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,Y. Tsunoda,RB,0,18,6,0,0,bahrain,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,V. Bottas,Sauber,0,17,8,0,0,bahrain,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,Z. Guanyu,Sauber,0,19,8,0,0,bahrain,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,bahrain,kevin_magnussen,haas,13.454545454545455,0.0,10.0,186.0,380,1.0,1.0
+Bahrain Grand Prix,2025-04-13,Bahrain International Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,bahrain,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,jeddah,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,4.0,209.0,788,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,jeddah,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,C. Leclerc,Ferrari,0,1,2,0,0,jeddah,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,C. Sainz,Ferrari,0,2,2,0,0,jeddah,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,L. Hamilton,Mercedes,0,8,5,0,0,jeddah,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,G. Russell,Mercedes,0,6,5,0,0,jeddah,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,L. Norris,McLaren,0,9,4,0,0,jeddah,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,O. Piastri,McLaren,0,14,4,0,0,jeddah,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,F. Alonso,Aston Martin,0,5,1,0,0,jeddah,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,L. Stroll,Aston Martin,0,11,1,0,0,jeddah,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,E. Ocon,Alpine,0,4,0,0,0,jeddah,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,P. Gasly,Alpine,0,15,0,0,0,jeddah,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,A. Albon,Williams,0,0,9,0,0,jeddah,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,L. Sargeant,Williams,0,10,9,0,0,jeddah,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,D. Ricciardo,RB,0,3,6,0,0,jeddah,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,Y. Tsunoda,RB,0,18,6,0,0,jeddah,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,V. Bottas,Sauber,0,17,8,0,0,jeddah,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,Z. Guanyu,Sauber,0,19,8,0,0,jeddah,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,jeddah,kevin_magnussen,haas,13.454545454545455,0.0,3.0,186.0,380,1.0,1.0
+Saudi Arabian Grand Prix,2025-04-20,Jeddah Corniche Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,jeddah,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,M. Verstappen,Red Bull Racing,0,12,7,0,0,miami,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,3.0,209.0,788,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,S. Perez,Red Bull Racing,0,16,7,0,0,miami,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,C. Leclerc,Ferrari,0,1,2,0,0,miami,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,C. Sainz,Ferrari,0,2,2,0,0,miami,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,L. Hamilton,Mercedes,0,8,5,0,0,miami,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,G. Russell,Mercedes,0,6,5,0,0,miami,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,L. Norris,McLaren,0,9,4,0,0,miami,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,O. Piastri,McLaren,0,14,4,0,0,miami,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,F. Alonso,Aston Martin,0,5,1,0,0,miami,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,L. Stroll,Aston Martin,0,11,1,0,0,miami,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,E. Ocon,Alpine,0,4,0,0,0,miami,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,P. Gasly,Alpine,0,15,0,0,0,miami,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,A. Albon,Williams,0,0,9,0,0,miami,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,L. Sargeant,Williams,0,10,9,0,0,miami,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,D. Ricciardo,RB,0,3,6,0,0,miami,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,Y. Tsunoda,RB,0,18,6,0,0,miami,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,V. Bottas,Sauber,0,17,8,0,0,miami,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,Z. Guanyu,Sauber,0,19,8,0,0,miami,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,K. Magnussen,Haas F1 Team,0,7,3,0,0,miami,kevin_magnussen,haas,13.454545454545455,0.0,3.0,186.0,380,1.0,1.0
+Miami Grand Prix,2025-05-04,Miami International Autodrome,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,miami,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,M. Verstappen,Red Bull Racing,0,12,7,0,0,imola,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,4.0,209.0,788,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,S. Perez,Red Bull Racing,0,16,7,0,0,imola,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,C. Leclerc,Ferrari,0,1,2,0,0,imola,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,C. Sainz,Ferrari,0,2,2,0,0,imola,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,L. Hamilton,Mercedes,0,8,5,0,0,imola,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,G. Russell,Mercedes,0,6,5,0,0,imola,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,L. Norris,McLaren,0,9,4,0,0,imola,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,O. Piastri,McLaren,0,14,4,0,0,imola,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,F. Alonso,Aston Martin,0,5,1,0,0,imola,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,L. Stroll,Aston Martin,0,11,1,0,0,imola,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,E. Ocon,Alpine,0,4,0,0,0,imola,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,P. Gasly,Alpine,0,15,0,0,0,imola,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,A. Albon,Williams,0,0,9,0,0,imola,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,L. Sargeant,Williams,0,10,9,0,0,imola,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,D. Ricciardo,RB,0,3,6,0,0,imola,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,Y. Tsunoda,RB,0,18,6,0,0,imola,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,V. Bottas,Sauber,0,17,8,0,0,imola,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,Z. Guanyu,Sauber,0,19,8,0,0,imola,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,K. Magnussen,Haas F1 Team,0,7,3,0,0,imola,kevin_magnussen,haas,13.454545454545455,0.0,3.0,186.0,380,1.0,1.0
+Emilia Romagna Grand Prix,2025-05-18,Autodromo Enzo e Dino Ferrari,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,imola,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,M. Verstappen,Red Bull Racing,0,12,7,0,0,monaco,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,9.0,209.0,788,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,S. Perez,Red Bull Racing,0,16,7,0,0,monaco,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,C. Leclerc,Ferrari,0,1,2,0,0,monaco,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,C. Sainz,Ferrari,0,2,2,0,0,monaco,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,L. Hamilton,Mercedes,0,8,5,0,0,monaco,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,G. Russell,Mercedes,0,6,5,0,0,monaco,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,L. Norris,McLaren,0,9,4,0,0,monaco,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,O. Piastri,McLaren,0,14,4,0,0,monaco,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,F. Alonso,Aston Martin,0,5,1,0,0,monaco,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,L. Stroll,Aston Martin,0,11,1,0,0,monaco,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,E. Ocon,Alpine,0,4,0,0,0,monaco,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,P. Gasly,Alpine,0,15,0,0,0,monaco,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,A. Albon,Williams,0,0,9,0,0,monaco,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,L. Sargeant,Williams,0,10,9,0,0,monaco,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,D. Ricciardo,RB,0,3,6,0,0,monaco,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,Y. Tsunoda,RB,0,18,6,0,0,monaco,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,V. Bottas,Sauber,0,17,8,0,0,monaco,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,Z. Guanyu,Sauber,0,19,8,0,0,monaco,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,K. Magnussen,Haas F1 Team,0,7,3,0,0,monaco,kevin_magnussen,haas,13.454545454545455,0.0,8.0,186.0,380,1.5,1.0
+Monaco Grand Prix,2025-05-25,Circuit de Monaco,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,monaco,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.5,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,M. Verstappen,Red Bull Racing,0,12,7,0,0,catalunya,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,10.0,209.0,788,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,S. Perez,Red Bull Racing,0,16,7,0,0,catalunya,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,C. Leclerc,Ferrari,0,1,2,0,0,catalunya,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,C. Sainz,Ferrari,0,2,2,0,0,catalunya,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,L. Hamilton,Mercedes,0,8,5,0,0,catalunya,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,G. Russell,Mercedes,0,6,5,0,0,catalunya,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,L. Norris,McLaren,0,9,4,0,0,catalunya,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,O. Piastri,McLaren,0,14,4,0,0,catalunya,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,F. Alonso,Aston Martin,0,5,1,0,0,catalunya,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,L. Stroll,Aston Martin,0,11,1,0,0,catalunya,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,E. Ocon,Alpine,0,4,0,0,0,catalunya,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,P. Gasly,Alpine,0,15,0,0,0,catalunya,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,A. Albon,Williams,0,0,9,0,0,catalunya,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,L. Sargeant,Williams,0,10,9,0,0,catalunya,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,D. Ricciardo,RB,0,3,6,0,0,catalunya,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,Y. Tsunoda,RB,0,18,6,0,0,catalunya,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,V. Bottas,Sauber,0,17,8,0,0,catalunya,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,Z. Guanyu,Sauber,0,19,8,0,0,catalunya,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,K. Magnussen,Haas F1 Team,0,7,3,0,0,catalunya,kevin_magnussen,haas,13.454545454545455,0.0,9.0,186.0,380,1.0,1.0
+Spanish Grand Prix,2025-06-01,Circuit de Barcelona-Catalunya,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,catalunya,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,M. Verstappen,Red Bull Racing,0,12,7,0,0,montreal,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,1.0,209.0,788,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,S. Perez,Red Bull Racing,0,16,7,0,0,montreal,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,C. Leclerc,Ferrari,0,1,2,0,0,montreal,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,C. Sainz,Ferrari,0,2,2,0,0,montreal,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,L. Hamilton,Mercedes,0,8,5,0,0,montreal,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,G. Russell,Mercedes,0,6,5,0,0,montreal,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,L. Norris,McLaren,0,9,4,0,0,montreal,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,O. Piastri,McLaren,0,14,4,0,0,montreal,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,F. Alonso,Aston Martin,0,5,1,0,0,montreal,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,L. Stroll,Aston Martin,0,11,1,0,0,montreal,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,E. Ocon,Alpine,0,4,0,0,0,montreal,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,P. Gasly,Alpine,0,15,0,0,0,montreal,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,A. Albon,Williams,0,0,9,0,0,montreal,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,L. Sargeant,Williams,0,10,9,0,0,montreal,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,D. Ricciardo,RB,0,3,6,0,0,montreal,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,Y. Tsunoda,RB,0,18,6,0,0,montreal,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,V. Bottas,Sauber,0,17,8,0,0,montreal,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,Z. Guanyu,Sauber,0,19,8,0,0,montreal,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,K. Magnussen,Haas F1 Team,0,7,3,0,0,montreal,kevin_magnussen,haas,13.454545454545455,0.0,1.0,186.0,380,1.0,1.0
+Canadian Grand Prix,2025-06-15,Circuit Gilles Villeneuve,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,montreal,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,M. Verstappen,Red Bull Racing,0,12,7,0,0,red_bull_ring,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,12.0,209.0,788,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,S. Perez,Red Bull Racing,0,16,7,0,0,red_bull_ring,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,C. Leclerc,Ferrari,0,1,2,0,0,red_bull_ring,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,C. Sainz,Ferrari,0,2,2,0,0,red_bull_ring,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,L. Hamilton,Mercedes,0,8,5,0,0,red_bull_ring,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,G. Russell,Mercedes,0,6,5,0,0,red_bull_ring,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,L. Norris,McLaren,0,9,4,0,0,red_bull_ring,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,O. Piastri,McLaren,0,14,4,0,0,red_bull_ring,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,F. Alonso,Aston Martin,0,5,1,0,0,red_bull_ring,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,L. Stroll,Aston Martin,0,11,1,0,0,red_bull_ring,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,E. Ocon,Alpine,0,4,0,0,0,red_bull_ring,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,P. Gasly,Alpine,0,15,0,0,0,red_bull_ring,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,A. Albon,Williams,0,0,9,0,0,red_bull_ring,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,L. Sargeant,Williams,0,10,9,0,0,red_bull_ring,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,D. Ricciardo,RB,0,3,6,0,0,red_bull_ring,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,Y. Tsunoda,RB,0,18,6,0,0,red_bull_ring,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,V. Bottas,Sauber,0,17,8,0,0,red_bull_ring,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,Z. Guanyu,Sauber,0,19,8,0,0,red_bull_ring,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,K. Magnussen,Haas F1 Team,0,7,3,0,0,red_bull_ring,kevin_magnussen,haas,13.454545454545455,0.0,10.0,186.0,380,1.5,1.0
+Austrian Grand Prix,2025-06-29,Red Bull Ring,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,red_bull_ring,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,silverstone,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,11.0,209.0,788,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,silverstone,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,C. Leclerc,Ferrari,0,1,2,0,0,silverstone,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,C. Sainz,Ferrari,0,2,2,0,0,silverstone,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,L. Hamilton,Mercedes,0,8,5,0,0,silverstone,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,G. Russell,Mercedes,0,6,5,0,0,silverstone,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,L. Norris,McLaren,0,9,4,0,0,silverstone,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,O. Piastri,McLaren,0,14,4,0,0,silverstone,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,F. Alonso,Aston Martin,0,5,1,0,0,silverstone,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,L. Stroll,Aston Martin,0,11,1,0,0,silverstone,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,E. Ocon,Alpine,0,4,0,0,0,silverstone,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,P. Gasly,Alpine,0,15,0,0,0,silverstone,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,A. Albon,Williams,0,0,9,0,0,silverstone,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,L. Sargeant,Williams,0,10,9,0,0,silverstone,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,D. Ricciardo,RB,0,3,6,0,0,silverstone,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,Y. Tsunoda,RB,0,18,6,0,0,silverstone,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,V. Bottas,Sauber,0,17,8,0,0,silverstone,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,Z. Guanyu,Sauber,0,19,8,0,0,silverstone,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,silverstone,kevin_magnussen,haas,13.454545454545455,0.0,10.0,186.0,380,1.5,1.0
+British Grand Prix,2025-07-06,Silverstone Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,silverstone,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.5,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,M. Verstappen,Red Bull Racing,0,12,7,0,0,spa-francorchamps,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,1.0,209.0,788,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,S. Perez,Red Bull Racing,0,16,7,0,0,spa-francorchamps,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,C. Leclerc,Ferrari,0,1,2,0,0,spa-francorchamps,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,C. Sainz,Ferrari,0,2,2,0,0,spa-francorchamps,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,L. Hamilton,Mercedes,0,8,5,0,0,spa-francorchamps,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,G. Russell,Mercedes,0,6,5,0,0,spa-francorchamps,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,L. Norris,McLaren,0,9,4,0,0,spa-francorchamps,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,O. Piastri,McLaren,0,14,4,0,0,spa-francorchamps,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,F. Alonso,Aston Martin,0,5,1,0,0,spa-francorchamps,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,L. Stroll,Aston Martin,0,11,1,0,0,spa-francorchamps,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,E. Ocon,Alpine,0,4,0,0,0,spa-francorchamps,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,P. Gasly,Alpine,0,15,0,0,0,spa-francorchamps,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,A. Albon,Williams,0,0,9,0,0,spa-francorchamps,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,L. Sargeant,Williams,0,10,9,0,0,spa-francorchamps,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,D. Ricciardo,RB,0,3,6,0,0,spa-francorchamps,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,Y. Tsunoda,RB,0,18,6,0,0,spa-francorchamps,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,V. Bottas,Sauber,0,17,8,0,0,spa-francorchamps,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,Z. Guanyu,Sauber,0,19,8,0,0,spa-francorchamps,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,K. Magnussen,Haas F1 Team,0,7,3,0,0,spa-francorchamps,kevin_magnussen,haas,13.454545454545455,0.0,1.0,186.0,380,1.0,1.0
+Belgian Grand Prix,2025-07-27,Circuit de Spa-Francorchamps,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,spa-francorchamps,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,M. Verstappen,Red Bull Racing,0,12,7,0,0,hungaroring,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,10.0,209.0,788,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,S. Perez,Red Bull Racing,0,16,7,0,0,hungaroring,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,C. Leclerc,Ferrari,0,1,2,0,0,hungaroring,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,C. Sainz,Ferrari,0,2,2,0,0,hungaroring,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,L. Hamilton,Mercedes,0,8,5,0,0,hungaroring,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,G. Russell,Mercedes,0,6,5,0,0,hungaroring,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,L. Norris,McLaren,0,9,4,0,0,hungaroring,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,O. Piastri,McLaren,0,14,4,0,0,hungaroring,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,F. Alonso,Aston Martin,0,5,1,0,0,hungaroring,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,L. Stroll,Aston Martin,0,11,1,0,0,hungaroring,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,E. Ocon,Alpine,0,4,0,0,0,hungaroring,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,P. Gasly,Alpine,0,15,0,0,0,hungaroring,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,A. Albon,Williams,0,0,9,0,0,hungaroring,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,L. Sargeant,Williams,0,10,9,0,0,hungaroring,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,D. Ricciardo,RB,0,3,6,0,0,hungaroring,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,Y. Tsunoda,RB,0,18,6,0,0,hungaroring,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,V. Bottas,Sauber,0,17,8,0,0,hungaroring,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,Z. Guanyu,Sauber,0,19,8,0,0,hungaroring,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,K. Magnussen,Haas F1 Team,0,7,3,0,0,hungaroring,kevin_magnussen,haas,13.454545454545455,0.0,9.0,186.0,380,1.5,1.0
+Hungarian Grand Prix,2025-08-03,Hungaroring,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,hungaroring,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.5,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,M. Verstappen,Red Bull Racing,0,12,7,0,0,zandvoort,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,4.0,209.0,788,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,S. Perez,Red Bull Racing,0,16,7,0,0,zandvoort,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,C. Leclerc,Ferrari,0,1,2,0,0,zandvoort,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,C. Sainz,Ferrari,0,2,2,0,0,zandvoort,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,L. Hamilton,Mercedes,0,8,5,0,0,zandvoort,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,G. Russell,Mercedes,0,6,5,0,0,zandvoort,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,L. Norris,McLaren,0,9,4,0,0,zandvoort,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,O. Piastri,McLaren,0,14,4,0,0,zandvoort,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,F. Alonso,Aston Martin,0,5,1,0,0,zandvoort,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,L. Stroll,Aston Martin,0,11,1,0,0,zandvoort,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,E. Ocon,Alpine,0,4,0,0,0,zandvoort,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,P. Gasly,Alpine,0,15,0,0,0,zandvoort,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,A. Albon,Williams,0,0,9,0,0,zandvoort,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,L. Sargeant,Williams,0,10,9,0,0,zandvoort,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,D. Ricciardo,RB,0,3,6,0,0,zandvoort,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,Y. Tsunoda,RB,0,18,6,0,0,zandvoort,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,V. Bottas,Sauber,0,17,8,0,0,zandvoort,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,Z. Guanyu,Sauber,0,19,8,0,0,zandvoort,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,K. Magnussen,Haas F1 Team,0,7,3,0,0,zandvoort,kevin_magnussen,haas,13.454545454545455,0.0,3.0,186.0,380,1.0,1.0
+Dutch Grand Prix,2025-08-31,Circuit Zandvoort,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,zandvoort,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,M. Verstappen,Red Bull Racing,0,12,7,0,0,monza,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,10.0,209.0,788,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,S. Perez,Red Bull Racing,0,16,7,0,0,monza,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,C. Leclerc,Ferrari,0,1,2,0,0,monza,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,C. Sainz,Ferrari,0,2,2,0,0,monza,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,L. Hamilton,Mercedes,0,8,5,0,0,monza,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,G. Russell,Mercedes,0,6,5,0,0,monza,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,L. Norris,McLaren,0,9,4,0,0,monza,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,O. Piastri,McLaren,0,14,4,0,0,monza,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,F. Alonso,Aston Martin,0,5,1,0,0,monza,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,L. Stroll,Aston Martin,0,11,1,0,0,monza,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,E. Ocon,Alpine,0,4,0,0,0,monza,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,P. Gasly,Alpine,0,15,0,0,0,monza,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,A. Albon,Williams,0,0,9,0,0,monza,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,L. Sargeant,Williams,0,10,9,0,0,monza,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,D. Ricciardo,RB,0,3,6,0,0,monza,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,Y. Tsunoda,RB,0,18,6,0,0,monza,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,V. Bottas,Sauber,0,17,8,0,0,monza,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,Z. Guanyu,Sauber,0,19,8,0,0,monza,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,K. Magnussen,Haas F1 Team,0,7,3,0,0,monza,kevin_magnussen,haas,13.454545454545455,0.0,9.0,186.0,380,1.0,1.0
+Italian Grand Prix,2025-09-07,Autodromo Nazionale Monza,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,monza,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,baku,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,8.0,209.0,788,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,baku,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,C. Leclerc,Ferrari,0,1,2,0,0,baku,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,C. Sainz,Ferrari,0,2,2,0,0,baku,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,L. Hamilton,Mercedes,0,8,5,0,0,baku,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,G. Russell,Mercedes,0,6,5,0,0,baku,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,L. Norris,McLaren,0,9,4,0,0,baku,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,O. Piastri,McLaren,0,14,4,0,0,baku,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,F. Alonso,Aston Martin,0,5,1,0,0,baku,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,L. Stroll,Aston Martin,0,11,1,0,0,baku,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,E. Ocon,Alpine,0,4,0,0,0,baku,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,P. Gasly,Alpine,0,15,0,0,0,baku,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,A. Albon,Williams,0,0,9,0,0,baku,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,L. Sargeant,Williams,0,10,9,0,0,baku,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,D. Ricciardo,RB,0,3,6,0,0,baku,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,Y. Tsunoda,RB,0,18,6,0,0,baku,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,V. Bottas,Sauber,0,17,8,0,0,baku,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,Z. Guanyu,Sauber,0,19,8,0,0,baku,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,baku,kevin_magnussen,haas,13.454545454545455,0.0,6.0,186.0,380,1.0,1.0
+Azerbaijan Grand Prix,2025-09-21,Baku City Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,baku,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,marina_bay,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,8.0,209.0,788,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,marina_bay,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,C. Leclerc,Ferrari,0,1,2,0,0,marina_bay,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,C. Sainz,Ferrari,0,2,2,0,0,marina_bay,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,L. Hamilton,Mercedes,0,8,5,0,0,marina_bay,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,G. Russell,Mercedes,0,6,5,0,0,marina_bay,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,L. Norris,McLaren,0,9,4,0,0,marina_bay,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,O. Piastri,McLaren,0,14,4,0,0,marina_bay,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,F. Alonso,Aston Martin,0,5,1,0,0,marina_bay,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,L. Stroll,Aston Martin,0,11,1,0,0,marina_bay,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,E. Ocon,Alpine,0,4,0,0,0,marina_bay,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,P. Gasly,Alpine,0,15,0,0,0,marina_bay,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,A. Albon,Williams,0,0,9,0,0,marina_bay,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,L. Sargeant,Williams,0,10,9,0,0,marina_bay,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,D. Ricciardo,RB,0,3,6,0,0,marina_bay,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,Y. Tsunoda,RB,0,18,6,0,0,marina_bay,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,V. Bottas,Sauber,0,17,8,0,0,marina_bay,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,Z. Guanyu,Sauber,0,19,8,0,0,marina_bay,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,marina_bay,kevin_magnussen,haas,13.454545454545455,0.0,8.0,186.0,380,1.0,1.0
+Singapore Grand Prix,2025-10-05,Marina Bay Street Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,marina_bay,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,M. Verstappen,Red Bull Racing,0,12,7,0,0,cota,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,1.0,209.0,788,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,S. Perez,Red Bull Racing,0,16,7,0,0,cota,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,C. Leclerc,Ferrari,0,1,2,0,0,cota,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,C. Sainz,Ferrari,0,2,2,0,0,cota,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,L. Hamilton,Mercedes,0,8,5,0,0,cota,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,G. Russell,Mercedes,0,6,5,0,0,cota,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,L. Norris,McLaren,0,9,4,0,0,cota,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,O. Piastri,McLaren,0,14,4,0,0,cota,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,F. Alonso,Aston Martin,0,5,1,0,0,cota,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,L. Stroll,Aston Martin,0,11,1,0,0,cota,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,E. Ocon,Alpine,0,4,0,0,0,cota,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,P. Gasly,Alpine,0,15,0,0,0,cota,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,A. Albon,Williams,0,0,9,0,0,cota,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,L. Sargeant,Williams,0,10,9,0,0,cota,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,D. Ricciardo,RB,0,3,6,0,0,cota,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,Y. Tsunoda,RB,0,18,6,0,0,cota,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,V. Bottas,Sauber,0,17,8,0,0,cota,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,Z. Guanyu,Sauber,0,19,8,0,0,cota,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,K. Magnussen,Haas F1 Team,0,7,3,0,0,cota,kevin_magnussen,haas,13.454545454545455,0.0,1.0,186.0,380,1.0,1.0
+United States Grand Prix,2025-10-19,Circuit of the Americas,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,cota,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,M. Verstappen,Red Bull Racing,0,12,7,0,0,rodriguez,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,9.0,209.0,788,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,S. Perez,Red Bull Racing,0,16,7,0,0,rodriguez,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,C. Leclerc,Ferrari,0,1,2,0,0,rodriguez,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,C. Sainz,Ferrari,0,2,2,0,0,rodriguez,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,L. Hamilton,Mercedes,0,8,5,0,0,rodriguez,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,G. Russell,Mercedes,0,6,5,0,0,rodriguez,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,L. Norris,McLaren,0,9,4,0,0,rodriguez,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,O. Piastri,McLaren,0,14,4,0,0,rodriguez,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,F. Alonso,Aston Martin,0,5,1,0,0,rodriguez,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,L. Stroll,Aston Martin,0,11,1,0,0,rodriguez,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,E. Ocon,Alpine,0,4,0,0,0,rodriguez,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,P. Gasly,Alpine,0,15,0,0,0,rodriguez,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,A. Albon,Williams,0,0,9,0,0,rodriguez,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,L. Sargeant,Williams,0,10,9,0,0,rodriguez,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,D. Ricciardo,RB,0,3,6,0,0,rodriguez,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,Y. Tsunoda,RB,0,18,6,0,0,rodriguez,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,V. Bottas,Sauber,0,17,8,0,0,rodriguez,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,Z. Guanyu,Sauber,0,19,8,0,0,rodriguez,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,K. Magnussen,Haas F1 Team,0,7,3,0,0,rodriguez,kevin_magnussen,haas,13.454545454545455,0.0,7.0,186.0,380,1.0,1.0
+Mexico City Grand Prix,2025-10-26,Autódromo Hermanos Rodríguez,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,rodriguez,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,M. Verstappen,Red Bull Racing,0,12,7,0,0,interlagos,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,9.0,209.0,788,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,S. Perez,Red Bull Racing,0,16,7,0,0,interlagos,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,C. Leclerc,Ferrari,0,1,2,0,0,interlagos,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,C. Sainz,Ferrari,0,2,2,0,0,interlagos,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,L. Hamilton,Mercedes,0,8,5,0,0,interlagos,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,G. Russell,Mercedes,0,6,5,0,0,interlagos,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,L. Norris,McLaren,0,9,4,0,0,interlagos,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,O. Piastri,McLaren,0,14,4,0,0,interlagos,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,F. Alonso,Aston Martin,0,5,1,0,0,interlagos,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,L. Stroll,Aston Martin,0,11,1,0,0,interlagos,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,E. Ocon,Alpine,0,4,0,0,0,interlagos,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,P. Gasly,Alpine,0,15,0,0,0,interlagos,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,A. Albon,Williams,0,0,9,0,0,interlagos,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,L. Sargeant,Williams,0,10,9,0,0,interlagos,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,D. Ricciardo,RB,0,3,6,0,0,interlagos,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,Y. Tsunoda,RB,0,18,6,0,0,interlagos,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,V. Bottas,Sauber,0,17,8,0,0,interlagos,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,Z. Guanyu,Sauber,0,19,8,0,0,interlagos,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,K. Magnussen,Haas F1 Team,0,7,3,0,0,interlagos,kevin_magnussen,haas,13.454545454545455,0.0,7.0,186.0,380,1.0,1.0
+São Paulo Grand Prix,2025-11-09,Autódromo José Carlos Pace,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,interlagos,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,las_vegas,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,1.0,209.0,788,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,las_vegas,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,C. Leclerc,Ferrari,0,1,2,0,0,las_vegas,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,C. Sainz,Ferrari,0,2,2,0,0,las_vegas,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,L. Hamilton,Mercedes,0,8,5,0,0,las_vegas,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,G. Russell,Mercedes,0,6,5,0,0,las_vegas,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,L. Norris,McLaren,0,9,4,0,0,las_vegas,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,O. Piastri,McLaren,0,14,4,0,0,las_vegas,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,F. Alonso,Aston Martin,0,5,1,0,0,las_vegas,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,L. Stroll,Aston Martin,0,11,1,0,0,las_vegas,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,E. Ocon,Alpine,0,4,0,0,0,las_vegas,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,P. Gasly,Alpine,0,15,0,0,0,las_vegas,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,A. Albon,Williams,0,0,9,0,0,las_vegas,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,L. Sargeant,Williams,0,10,9,0,0,las_vegas,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,D. Ricciardo,RB,0,3,6,0,0,las_vegas,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,Y. Tsunoda,RB,0,18,6,0,0,las_vegas,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,V. Bottas,Sauber,0,17,8,0,0,las_vegas,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,Z. Guanyu,Sauber,0,19,8,0,0,las_vegas,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,las_vegas,kevin_magnussen,haas,13.454545454545455,0.0,1.0,186.0,380,1.0,1.0
+Las Vegas Grand Prix,2025-11-22,Las Vegas Street Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,las_vegas,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,losail,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,3.0,209.0,788,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,losail,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,C. Leclerc,Ferrari,0,1,2,0,0,losail,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,C. Sainz,Ferrari,0,2,2,0,0,losail,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,L. Hamilton,Mercedes,0,8,5,0,0,losail,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,G. Russell,Mercedes,0,6,5,0,0,losail,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,L. Norris,McLaren,0,9,4,0,0,losail,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,O. Piastri,McLaren,0,14,4,0,0,losail,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,F. Alonso,Aston Martin,0,5,1,0,0,losail,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,L. Stroll,Aston Martin,0,11,1,0,0,losail,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,E. Ocon,Alpine,0,4,0,0,0,losail,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,P. Gasly,Alpine,0,15,0,0,0,losail,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,A. Albon,Williams,0,0,9,0,0,losail,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,L. Sargeant,Williams,0,10,9,0,0,losail,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,D. Ricciardo,RB,0,3,6,0,0,losail,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,Y. Tsunoda,RB,0,18,6,0,0,losail,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,V. Bottas,Sauber,0,17,8,0,0,losail,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,Z. Guanyu,Sauber,0,19,8,0,0,losail,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,losail,kevin_magnussen,haas,13.454545454545455,0.0,2.0,186.0,380,1.0,1.0
+Qatar Grand Prix,2025-11-30,Lusail International Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,losail,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,M. Verstappen,Red Bull Racing,0,12,7,0,0,yas_marina,max_verstappen,red_bull,2.3043478260869565,0.1548223350253807,10.0,209.0,788,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,S. Perez,Red Bull Racing,0,16,7,0,0,yas_marina,unknown,red_bull,9.511425462459195,0.1548223350253807,1.0,1.0,788,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,C. Leclerc,Ferrari,0,1,2,0,0,yas_marina,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,C. Sainz,Ferrari,0,2,2,0,0,yas_marina,unknown,ferrari,9.511425462459195,0.10209102091020911,1.0,1.0,2439,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,L. Hamilton,Mercedes,0,8,5,0,0,yas_marina,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,G. Russell,Mercedes,0,6,5,0,0,yas_marina,unknown,mercedes,9.511425462459195,0.19785276073619631,1.0,1.0,652,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,L. Norris,McLaren,0,9,4,0,0,yas_marina,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,O. Piastri,McLaren,0,14,4,0,0,yas_marina,unknown,mclaren,9.511425462459195,0.09620384815392616,1.0,1.0,1923,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,F. Alonso,Aston Martin,0,5,1,0,0,yas_marina,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,L. Stroll,Aston Martin,0,11,1,0,0,yas_marina,unknown,aston_martin,9.511425462459195,0.0,1.0,1.0,191,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,E. Ocon,Alpine,0,4,0,0,0,yas_marina,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,P. Gasly,Alpine,0,15,0,0,0,yas_marina,unknown,alpine,9.511425462459195,0.005555555555555556,1.0,1.0,180,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,A. Albon,Williams,0,0,9,0,0,yas_marina,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,L. Sargeant,Williams,0,10,9,0,0,yas_marina,unknown,williams,9.511425462459195,0.06801909307875895,1.0,1.0,1676,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,D. Ricciardo,RB,0,3,6,0,0,yas_marina,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,Y. Tsunoda,RB,0,18,6,0,0,yas_marina,unknown,rb,9.511425462459195,0.0,1.0,1.0,48,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,V. Bottas,Sauber,0,17,8,0,0,yas_marina,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,Z. Guanyu,Sauber,0,19,8,0,0,yas_marina,unknown,sauber,9.511425462459195,0.0,1.0,1.0,837,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,K. Magnussen,Haas F1 Team,0,7,3,0,0,yas_marina,kevin_magnussen,haas,13.454545454545455,0.0,9.0,186.0,380,1.0,1.0
+Abu Dhabi Grand Prix,2025-12-07,Yas Marina Circuit,N. Hulkenberg,Haas F1 Team,0,13,3,0,0,yas_marina,unknown,haas,9.511425462459195,0.0,1.0,1.0,380,1.0,1.0

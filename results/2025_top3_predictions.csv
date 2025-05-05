@@ -1,0 +1,70 @@
+race_name,driver,team,grid_position,circuit_difficulty,date,round,country,driver_code,constructor_code,position_change,podium,circuitRef,driverRef,constructorRef,recent_driver_form,constructor_win_rate,circuit_familiarity,driver_experience,constructor_experience,grid_importance,weather_impact,predicted_podium,podium_probability,confidence
+Bahrain GP,M. Verstappen,Red Bull Racing,10,3,2025-04-13,4,Bahrain,11,7,0,0,bahrain,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,11.0,209.0,788,1.0,1.0,0,0.052806447830522636,🔴 Low
+Bahrain GP,K. Magnussen,Haas F1 Team,10,3,2025-04-13,4,Bahrain,6,3,0,0,bahrain,kevin_magnussen,haas,13.897435897435898,0.0,10.0,186.0,380,1.0,1.0,0,0.05268480078184165,🔴 Low
+Bahrain GP,C. Leclerc,Ferrari,10,3,2025-04-13,4,Bahrain,1,2,0,0,bahrain,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264787695651007,🔴 Low
+Saudi Arabian GP,M. Verstappen,Red Bull Racing,10,3,2025-04-20,5,Saudi Arabia,11,7,0,0,jeddah,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,4.0,209.0,788,1.0,1.0,0,0.05281931895893221,🔴 Low
+Saudi Arabian GP,K. Magnussen,Haas F1 Team,10,3,2025-04-20,5,Saudi Arabia,6,3,0,0,jeddah,kevin_magnussen,haas,13.897435897435898,0.0,3.0,186.0,380,1.0,1.0,0,0.05267247052474145,🔴 Low
+Saudi Arabian GP,L. Hamilton,Ferrari,10,3,2025-04-20,5,Saudi Arabia,7,2,0,0,jeddah,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.052647845122583234,🔴 Low
+Australian GP,M. Verstappen,Red Bull Racing,10,3,2025-04-27,6,Australia,11,7,0,0,melbourne,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,1.0,209.0,788,1.0,1.0,0,0.05282304671198417,🔴 Low
+Australian GP,K. Magnussen,Haas F1 Team,10,3,2025-04-27,6,Australia,6,3,0,0,melbourne,kevin_magnussen,haas,13.897435897435898,0.0,1.0,186.0,380,1.0,1.0,0,0.05267251908791581,🔴 Low
+Australian GP,L. Hamilton,Ferrari,10,3,2025-04-27,6,Australia,7,2,0,0,melbourne,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264762286088739,🔴 Low
+Japanese GP,M. Verstappen,Red Bull Racing,10,4,2025-05-04,7,Japan,11,7,0,0,suzuka,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,8.0,209.0,788,1.0,1.0,0,0.052818086762127334,🔴 Low
+Japanese GP,K. Magnussen,Haas F1 Team,10,4,2025-05-04,7,Japan,6,3,0,0,suzuka,kevin_magnussen,haas,13.897435897435898,0.0,8.0,186.0,380,1.0,1.0,0,0.05268404742375586,🔴 Low
+Japanese GP,L. Hamilton,Ferrari,10,4,2025-05-04,7,Japan,7,2,0,0,suzuka,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.052648004555921085,🔴 Low
+Chinese GP,M. Verstappen,Red Bull Racing,10,3,2025-05-11,8,China,11,7,0,0,shanghai,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,6.0,209.0,788,1.0,1.0,0,0.05281010383892086,🔴 Low
+Chinese GP,K. Magnussen,Haas F1 Team,10,3,2025-05-11,8,China,6,3,0,0,shanghai,kevin_magnussen,haas,13.897435897435898,0.0,6.0,186.0,380,1.0,1.0,0,0.05267801166692318,🔴 Low
+Chinese GP,C. Leclerc,Ferrari,10,3,2025-05-11,8,China,1,2,0,0,shanghai,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264806136097376,🔴 Low
+Miami GP,M. Verstappen,Red Bull Racing,10,4,2025-05-18,9,USA,11,7,0,0,miami,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,3.0,209.0,788,1.0,1.0,0,0.05282358432274237,🔴 Low
+Miami GP,K. Magnussen,Haas F1 Team,10,4,2025-05-18,9,USA,6,3,0,0,miami,kevin_magnussen,haas,13.897435897435898,0.0,3.0,186.0,380,1.0,1.0,0,0.05267472521967236,🔴 Low
+Miami GP,L. Hamilton,Ferrari,10,4,2025-05-18,9,USA,7,2,0,0,miami,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264822966528629,🔴 Low
+Emilia Romagna GP,M. Verstappen,Red Bull Racing,10,4,2025-05-25,10,Italy,11,7,0,0,,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,1.0,209.0,788,1.0,1.0,0,0.05282775375854786,🔴 Low
+Emilia Romagna GP,K. Magnussen,Haas F1 Team,10,4,2025-05-25,10,Italy,6,3,0,0,,kevin_magnussen,haas,13.897435897435898,0.0,1.0,186.0,380,1.0,1.0,0,0.052672876194689515,🔴 Low
+Emilia Romagna GP,C. Leclerc,Ferrari,10,4,2025-05-25,10,Italy,1,2,0,0,,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264809309145617,🔴 Low
+Monaco GP,M. Verstappen,Red Bull Racing,10,5,2025-06-01,11,Monaco,11,7,0,0,monaco,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,9.0,209.0,788,1.5,1.0,0,0.052810287579975294,🔴 Low
+Monaco GP,K. Magnussen,Haas F1 Team,10,5,2025-06-01,11,Monaco,6,3,0,0,monaco,kevin_magnussen,haas,13.897435897435898,0.0,8.0,186.0,380,1.5,1.0,0,0.0526864414984994,🔴 Low
+Monaco GP,C. Leclerc,Ferrari,10,5,2025-06-01,11,Monaco,1,2,0,0,monaco,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.5,1.0,0,0.052652256509832476,🔴 Low
+Spanish GP,M. Verstappen,Red Bull Racing,10,3,2025-06-15,12,Spain,11,7,0,0,catalunya,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,10.0,209.0,788,1.0,1.0,0,0.05280663938120782,🔴 Low
+Spanish GP,K. Magnussen,Haas F1 Team,10,3,2025-06-15,12,Spain,6,3,0,0,catalunya,kevin_magnussen,haas,13.897435897435898,0.0,9.0,186.0,380,1.0,1.0,0,0.05268479874817505,🔴 Low
+Spanish GP,L. Hamilton,Ferrari,10,3,2025-06-15,12,Spain,7,2,0,0,catalunya,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264786580215451,🔴 Low
+Canadian GP,M. Verstappen,Red Bull Racing,10,3,2025-06-22,13,Canada,11,7,0,0,montréal,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,1.0,209.0,788,1.0,1.0,0,0.05282304671198417,🔴 Low
+Canadian GP,K. Magnussen,Haas F1 Team,10,3,2025-06-22,13,Canada,6,3,0,0,montréal,kevin_magnussen,haas,13.897435897435898,0.0,1.0,186.0,380,1.0,1.0,0,0.05267251908791581,🔴 Low
+Canadian GP,L. Hamilton,Ferrari,10,3,2025-06-22,13,Canada,7,2,0,0,montréal,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264762286088739,🔴 Low
+Austrian GP,M. Verstappen,Red Bull Racing,10,3,2025-06-29,14,Austria,11,7,0,0,red_bull_ring,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,12.0,209.0,788,1.5,1.0,0,0.05280568082155853,🔴 Low
+Austrian GP,K. Magnussen,Haas F1 Team,10,3,2025-06-29,14,Austria,6,3,0,0,red_bull_ring,kevin_magnussen,haas,13.897435897435898,0.0,10.0,186.0,380,1.5,1.0,0,0.05268277759627934,🔴 Low
+Austrian GP,C. Leclerc,Ferrari,10,3,2025-06-29,14,Austria,1,2,0,0,red_bull_ring,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.5,1.0,0,0.05265287618205167,🔴 Low
+British GP,M. Verstappen,Red Bull Racing,10,4,2025-07-06,15,United Kingdom,11,7,0,0,silverstone,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,11.0,209.0,788,1.5,1.0,0,0.052808476424686855,🔴 Low
+British GP,K. Magnussen,Haas F1 Team,10,4,2025-07-06,15,United Kingdom,6,3,0,0,silverstone,kevin_magnussen,haas,13.897435897435898,0.0,10.0,186.0,380,1.5,1.0,0,0.05268532455674264,🔴 Low
+British GP,L. Hamilton,Ferrari,10,4,2025-07-06,15,United Kingdom,7,2,0,0,silverstone,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.5,1.0,0,0.052653507862933276,🔴 Low
+Hungarian GP,M. Verstappen,Red Bull Racing,10,3,2025-07-20,16,Hungary,11,7,0,0,hungaroring,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,10.0,209.0,788,1.5,1.0,0,0.05280668785623064,🔴 Low
+Hungarian GP,K. Magnussen,Haas F1 Team,10,3,2025-07-20,16,Hungary,6,3,0,0,hungaroring,kevin_magnussen,haas,13.897435897435898,0.0,9.0,186.0,380,1.5,1.0,0,0.052682730742111265,🔴 Low
+Hungarian GP,L. Hamilton,Ferrari,10,3,2025-07-20,16,Hungary,7,2,0,0,hungaroring,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.5,1.0,0,0.0526528196637589,🔴 Low
+Belgian GP,M. Verstappen,Red Bull Racing,10,4,2025-07-27,17,Belgium,11,7,0,0,spa-francorchamps,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,1.0,209.0,788,1.0,1.0,0,0.05282775375854786,🔴 Low
+Belgian GP,K. Magnussen,Haas F1 Team,10,4,2025-07-27,17,Belgium,6,3,0,0,spa-francorchamps,kevin_magnussen,haas,13.897435897435898,0.0,1.0,186.0,380,1.0,1.0,0,0.052672876194689515,🔴 Low
+Belgian GP,C. Leclerc,Ferrari,10,4,2025-07-27,17,Belgium,1,2,0,0,spa-francorchamps,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264809309145617,🔴 Low
+Italian GP,M. Verstappen,Red Bull Racing,10,3,2025-09-07,18,Italy,11,7,0,0,monza,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,10.0,209.0,788,1.0,1.0,0,0.05280663938120782,🔴 Low
+Italian GP,K. Magnussen,Haas F1 Team,10,3,2025-09-07,18,Italy,6,3,0,0,monza,kevin_magnussen,haas,13.897435897435898,0.0,9.0,186.0,380,1.0,1.0,0,0.05268479874817505,🔴 Low
+Italian GP,L. Hamilton,Ferrari,10,3,2025-09-07,18,Italy,7,2,0,0,monza,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264786580215451,🔴 Low
+Azerbaijan GP,M. Verstappen,Red Bull Racing,10,3,2025-09-14,19,Azerbaijan,11,7,0,0,baku,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,8.0,209.0,788,1.0,1.0,0,0.052814440958746905,🔴 Low
+Azerbaijan GP,K. Magnussen,Haas F1 Team,10,3,2025-09-14,19,Azerbaijan,6,3,0,0,baku,kevin_magnussen,haas,13.897435897435898,0.0,6.0,186.0,380,1.0,1.0,0,0.0526777704577953,🔴 Low
+Azerbaijan GP,L. Hamilton,Ferrari,10,3,2025-09-14,19,Azerbaijan,7,2,0,0,baku,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264782028898635,🔴 Low
+Singapore GP,M. Verstappen,Red Bull Racing,10,4,2025-09-21,20,Singapore,11,7,0,0,marina_bay,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,8.0,209.0,788,1.0,1.0,0,0.052818086762127334,🔴 Low
+Singapore GP,K. Magnussen,Haas F1 Team,10,4,2025-09-21,20,Singapore,6,3,0,0,marina_bay,kevin_magnussen,haas,13.897435897435898,0.0,8.0,186.0,380,1.0,1.0,0,0.05268404742375586,🔴 Low
+Singapore GP,C. Leclerc,Ferrari,10,4,2025-09-21,20,Singapore,1,2,0,0,marina_bay,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.052648004555921085,🔴 Low
+United States GP,M. Verstappen,Red Bull Racing,10,3,2025-10-05,21,USA,11,7,0,0,cota,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,1.0,209.0,788,1.0,1.0,0,0.05282304671198417,🔴 Low
+United States GP,K. Magnussen,Haas F1 Team,10,3,2025-10-05,21,USA,6,3,0,0,cota,kevin_magnussen,haas,13.897435897435898,0.0,1.0,186.0,380,1.0,1.0,0,0.05267251908791581,🔴 Low
+United States GP,L. Hamilton,Ferrari,10,3,2025-10-05,21,USA,7,2,0,0,cota,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264762286088739,🔴 Low
+Mexico City GP,M. Verstappen,Red Bull Racing,10,3,2025-10-19,22,Mexico,11,7,0,0,rodriguez,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,9.0,209.0,788,1.0,1.0,0,0.05280842607602799,🔴 Low
+Mexico City GP,K. Magnussen,Haas F1 Team,10,3,2025-10-19,22,Mexico,6,3,0,0,rodriguez,kevin_magnussen,haas,13.897435897435898,0.0,7.0,186.0,380,1.0,1.0,0,0.05267810694068122,🔴 Low
+Mexico City GP,L. Hamilton,Ferrari,10,3,2025-10-19,22,Mexico,7,2,0,0,rodriguez,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.052648154501139396,🔴 Low
+São Paulo GP,M. Verstappen,Red Bull Racing,10,3,2025-11-02,23,Brazil,11,7,0,0,interlagos,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,9.0,209.0,788,1.0,1.0,0,0.05280842607602799,🔴 Low
+São Paulo GP,K. Magnussen,Haas F1 Team,10,3,2025-11-02,23,Brazil,6,3,0,0,interlagos,kevin_magnussen,haas,13.897435897435898,0.0,7.0,186.0,380,1.0,1.0,0,0.05267810694068122,🔴 Low
+São Paulo GP,C. Leclerc,Ferrari,10,3,2025-11-02,23,Brazil,1,2,0,0,interlagos,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.052648154501139396,🔴 Low
+Las Vegas GP,M. Verstappen,Red Bull Racing,10,3,2025-11-16,24,USA,11,7,0,0,las_vegas,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,1.0,209.0,788,1.0,1.0,0,0.05282304671198417,🔴 Low
+Las Vegas GP,K. Magnussen,Haas F1 Team,10,3,2025-11-16,24,USA,6,3,0,0,las_vegas,kevin_magnussen,haas,13.897435897435898,0.0,1.0,186.0,380,1.0,1.0,0,0.05267251908791581,🔴 Low
+Las Vegas GP,C. Leclerc,Ferrari,10,3,2025-11-16,24,USA,1,2,0,0,las_vegas,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264762286088739,🔴 Low
+Qatar GP,M. Verstappen,Red Bull Racing,10,3,2025-11-23,25,Qatar,11,7,0,0,losail,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,3.0,209.0,788,1.0,1.0,0,0.052814362781515176,🔴 Low
+Qatar GP,K. Magnussen,Haas F1 Team,10,3,2025-11-23,25,Qatar,6,3,0,0,losail,kevin_magnussen,haas,13.897435897435898,0.0,2.0,186.0,380,1.0,1.0,0,0.05267691201140065,🔴 Low
+Qatar GP,C. Leclerc,Ferrari,10,3,2025-11-23,25,Qatar,1,2,0,0,losail,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264787541560793,🔴 Low
+Abu Dhabi GP,M. Verstappen,Red Bull Racing,10,3,2025-11-30,26,Abu Dhabi,11,7,0,0,yas_marina,max_verstappen,red_bull,2.1333333333333333,0.1548223350253807,10.0,209.0,788,1.0,1.0,0,0.05280663938120782,🔴 Low
+Abu Dhabi GP,K. Magnussen,Haas F1 Team,10,3,2025-11-30,26,Abu Dhabi,6,3,0,0,yas_marina,kevin_magnussen,haas,13.897435897435898,0.0,9.0,186.0,380,1.0,1.0,0,0.05268479874817505,🔴 Low
+Abu Dhabi GP,C. Leclerc,Ferrari,10,3,2025-11-30,26,Abu Dhabi,1,2,0,0,yas_marina,,ferrari,9.450428396572828,0.1020910209102091,1.0,1.0,2439,1.0,1.0,0,0.05264786580215451,🔴 Low

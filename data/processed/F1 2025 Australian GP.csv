@@ -1,0 +1,21 @@
+Position,Driver,Team,Number,Laps,Time,Interval,Km/h,Pits,Points
+1,L. Norris,McLaren,4,57,1:42:06.304,—,176.786,5,25
+2,M. Verstappen,Red Bull Racing,1,57,1:42:07.199,0.895,176.76,5,18
+3,G. Russell,Mercedes,63,57,1:42:14.785,7.586,176.541,5,15
+4,A. Antonelli,Mercedes,12,57,1:42:16.439,1.654,176.494,5,12
+5,A. Albon,Williams,23,57,1:42:19.077,2.638,176.418,5,10
+6,L. Stroll,Aston Martin Racing,18,57,1:42:23.717,4.640,176.285,5,8
+7,N. Hulkenberg,Sauber,27,57,1:42:24.727,1.010,176.256,5,6
+8,C. Leclerc,Ferrari,16,57,1:42:26.130,1.403,176.215,5,4
+9,O. Piastri,McLaren,81,57,1:42:26.752,0.622,176.198,5,2
+10,L. Hamilton,Ferrari,44,57,1:42:28.777,2.025,176.14,5,1
+11,P. Gasly,Alpine,10,57,1:42:32.806,4.029,176.024,5,0
+12,Y. Tsunoda,Racing Bulls,22,57,1:42:36.188,3.382,175.927,5,0
+13,E. Ocon,Haas F1 Team,31,57,1:42:39.465,3.277,175.834,5,0
+14,O. Bearman,Haas F1 Team,87,57,1:42:46.865,7.190,175.629,5,0
+dnf,L. Lawson,Red Bull Racing,30,46,1:27:20.450,11 Laps,177.273,4,4
+dnf,G. Bortoleto,Sauber,5,45,1:20:56.832,1 Lap,176.091,1,3
+dnf,F. Alonso,Aston Martin Racing,14,32,5:54:4.463,13 Laps,181.8,3,3
+dnf,C. Sainz,Williams,55,0,—,—,0.0,0,0
+dnf,J. Doohan,Alpine,7,0,—,—,0.0,0,0
+dns,I. Hadjar,Racing Bulls,6,0,—,—,0.0,0,0
